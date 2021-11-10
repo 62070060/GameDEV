@@ -1,0 +1,1260 @@
+﻿Log file open, 11/09/21 17:09:48
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: UI
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.587377
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx  , GPU: AMD Radeon(TM) RX Vega 10 Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=Waybk44 -epicuserid=c582268523cc4f0b911af7dccf43443c -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.09-10.09.50:289][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.09-10.09.50:289][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.09-10.09.50:289][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Config/Windows/Engine.ini]
+[2021.11.09-10.09.50:289][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.09-10.09.50:289][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Config/Windows/Engine.ini]
+[2021.11.09-10.09.50:289][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Config/Windows/Engine.ini]
+[2021.11.09-10.09.50:289][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.09-10.09.50:290][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.09-10.09.50:290][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.09-10.09.50:290][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.09-10.09.50:290][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.09-10.09.50:290][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.09-10.09.50:290][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.09-10.09.50:290][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.09-10.09.50:290][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.09-10.09.50:290][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.09-10.09.50:290][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.09-10.09.50:290][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.09-10.09.50:290][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.09-10.09.50:290][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.09-10.09.50:290][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Config/Windows/Engine.ini]
+[2021.11.09-10.09.50:291][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.09-10.09.50:291][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.09-10.09.50:291][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.09-10.09.50:291][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.09-10.09.50:291][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.09-10.09.50:291][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.09-10.09.50:291][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.09-10.09.50:291][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.09-10.09.50:291][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.09-10.09.50:291][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.09-10.09.50:291][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.09-10.09.50:291][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.09-10.09.50:291][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.09-10.09.50:291][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.09-10.09.50:291][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Config/Windows/Engine.ini]
+[2021.11.09-10.09.50:292][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Config/Windows/Engine.ini]
+[2021.11.09-10.09.50:314][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Config/Windows/Scalability.ini]
+[2021.11.09-10.09.50:314][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.09-10.09.50:314][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.09-10.09.50:314][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Config/Windows/Scalability.ini]
+[2021.11.09-10.09.50:314][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.09-10.09.50:314][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Config/Windows/Scalability.ini]
+[2021.11.09-10.09.50:314][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.09-10.09.50:314][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.09-10.09.50:314][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.09-10.09.50:315][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.09-10.09.50:315][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.09-10.09.50:315][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.09-10.09.50:315][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.09-10.09.50:315][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.09-10.09.50:316][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.09-10.09.50:317][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.09-10.09.50:317][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.09-10.09.50:317][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.09-10.09.50:317][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.09-10.09.50:317][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.09-10.09.50:317][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.09-10.09.50:317][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.09-10.09.50:317][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.09-10.09.50:317][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.09-10.09.50:317][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Config/Windows/Scalability.ini]
+[2021.11.09-10.09.50:317][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.09-10.09.50:318][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.09-10.09.50:318][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.09-10.09.50:318][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.09-10.09.50:318][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.09-10.09.50:318][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.09-10.09.50:318][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.09-10.09.50:318][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.09-10.09.50:319][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.09-10.09.50:319][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.09-10.09.50:319][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.09-10.09.50:319][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.09-10.09.50:319][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.09-10.09.50:319][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.09-10.09.50:319][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.09-10.09.50:319][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.09-10.09.50:319][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.09-10.09.50:319][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.09-10.09.50:319][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.09-10.09.50:319][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.09-10.09.50:319][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.09-10.09.50:319][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Config/Windows/Scalability.ini]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Config/Windows/Scalability.ini]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.09-10.09.50:320][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.09-10.09.50:321][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.09-10.09.50:321][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.09-10.09.50:321][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.09-10.09.50:321][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.09-10.09.50:321][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.09-10.09.50:321][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.09-10.09.50:321][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.09-10.09.50:321][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.09-10.09.50:321][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.09-10.09.50:321][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.09-10.09.50:321][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.09-10.09.50:321][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.09-10.09.50:321][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.09-10.09.50:321][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.09-10.09.50:321][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.09-10.09.50:321][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Config/Windows/Scalability.ini]
+[2021.11.09-10.09.50:321][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.09-10.09.50:321][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.09-10.09.50:321][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Config/Windows/Scalability.ini]
+[2021.11.09-10.09.50:322][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.09-10.09.50:322][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.09-10.09.50:322][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.09-10.09.50:322][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.09-10.09.50:322][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.09-10.09.50:322][  0]LogHAL: Display: Platform has ~ 16 GB [16844222464 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.09-10.09.50:322][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.09-10.09.50:322][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Config/Windows/Scalability.ini]
+[2021.11.09-10.09.50:322][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.09-10.09.50:322][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.09-10.09.50:322][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Config/Windows/Scalability.ini]
+[2021.11.09-10.09.50:322][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.09-10.09.50:322][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Config/Windows/Scalability.ini]
+[2021.11.09-10.09.50:322][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.09-10.09.50:322][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.09-10.09.50:322][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.09-10.09.50:322][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.09-10.09.50:322][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.09-10.09.50:322][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.09-10.09.50:322][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.09-10.09.50:322][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.09-10.09.50:322][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.09-10.09.50:322][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.09-10.09.50:322][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.09-10.09.50:322][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.09-10.09.50:322][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.09-10.09.50:322][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.09-10.09.50:323][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.09-10.09.50:323][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.09-10.09.50:323][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.09-10.09.50:323][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.09-10.09.50:323][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Config/Windows/Scalability.ini]
+[2021.11.09-10.09.50:323][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.09-10.09.50:323][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.09-10.09.50:323][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.09-10.09.50:323][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.09-10.09.50:323][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.09-10.09.50:323][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.09-10.09.50:323][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.09-10.09.50:323][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.09-10.09.50:323][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.09-10.09.50:323][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.09-10.09.50:323][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.09-10.09.50:323][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.09-10.09.50:323][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.09-10.09.50:323][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.09-10.09.50:323][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.09-10.09.50:323][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.09-10.09.50:323][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.09-10.09.50:323][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.09-10.09.50:323][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.09-10.09.50:323][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Config/Windows/Scalability.ini]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Config/Windows/Scalability.ini]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.09-10.09.50:324][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.09-10.09.50:325][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.09-10.09.50:325][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.09-10.09.50:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.09-10.09.50:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.09-10.09.50:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.09-10.09.50:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.09-10.09.50:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.09-10.09.50:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.09-10.09.50:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.09-10.09.50:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.09-10.09.50:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.09-10.09.50:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.09-10.09.50:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.09-10.09.50:326][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Config/Windows/Scalability.ini]
+[2021.11.09-10.09.50:326][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.09-10.09.50:326][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.09-10.09.50:326][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Config/Windows/Scalability.ini]
+[2021.11.09-10.09.50:326][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.09-10.09.50:326][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.09-10.09.50:326][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.09-10.09.50:326][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.09-10.09.50:327][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.09-10.09.50:327][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.09-10.09.50:327][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.09-10.09.50:327][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Config/Windows/Engine.ini]
+[2021.11.09-10.09.50:327][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Config/Windows/Editor.ini]
+[2021.11.09-10.09.50:327][  0]LogInit: Computer: LAPTOP-56SHIV4R
+[2021.11.09-10.09.50:327][  0]LogInit: User: ASUSROGZEPHYRUS
+[2021.11.09-10.09.50:327][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.11.09-10.09.50:328][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.09-10.09.50:328][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2021.11.09-10.09.50:328][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.09-10.09.50:328][  0]LogMemory: Process Physical Memory: 137.05 MB used, 137.05 MB peak
+[2021.11.09-10.09.50:328][  0]LogMemory: Process Virtual Memory: 118.84 MB used, 118.84 MB peak
+[2021.11.09-10.09.50:328][  0]LogMemory: Physical Memory: 8396.12 MB used,  7667.78 MB free, 16063.90 MB total
+[2021.11.09-10.09.50:328][  0]LogMemory: Virtual Memory: 134209256.00 MB used,  8470.85 MB free, 134217728.00 MB total
+[2021.11.09-10.09.50:344][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.09-10.09.50:505][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.09-10.09.50:508][  0]LogInit: Using OS detected language (en-US).
+[2021.11.09-10.09.50:508][  0]LogInit: Using OS detected locale (en-US).
+[2021.11.09-10.09.50:516][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.11.09-10.09.51:095][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.09-10.09.51:122][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.09-10.09.51:156][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.09-10.09.51:156][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.09-10.09.51:871][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.09-10.09.51:871][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.09-10.09.51:871][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.09-10.09.51:871][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.09-10.09.52:177][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti with Max-Q Design' (Feature Level 11_0)
+[2021.11.09-10.09.52:177][  0]LogD3D11RHI:       5991/0/8031 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.11.09-10.09.52:268][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) RX Vega 10 Graphics' (Feature Level 11_0)
+[2021.11.09-10.09.52:268][  0]LogD3D11RHI:       241/0/8031 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2021.11.09-10.09.52:275][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.09-10.09.52:275][  0]LogD3D11RHI:       0/0/8031 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.09-10.09.52:275][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.11.09-10.09.52:296][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.09-10.09.52:296][  0]LogD3D11RHI:     GPU DeviceId: 0x2191 (for the marketing name, search the web for "GPU Device Id")
+[2021.11.09-10.09.52:296][  0]LogWindows: EnumDisplayDevices:
+[2021.11.09-10.09.52:296][  0]LogWindows:    0. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:1 D:1)
+[2021.11.09-10.09.52:297][  0]LogWindows:    1. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:0 D:0)
+[2021.11.09-10.09.52:297][  0]LogWindows:    2. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:0 D:0)
+[2021.11.09-10.09.52:298][  0]LogWindows:    3. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:0 D:0)
+[2021.11.09-10.09.52:298][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1660 Ti with Max-Q Design' (P:0 D:0)
+[2021.11.09-10.09.52:299][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1660 Ti with Max-Q Design' (P:0 D:0)
+[2021.11.09-10.09.52:299][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1660 Ti with Max-Q Design' (P:0 D:0)
+[2021.11.09-10.09.52:299][  0]LogWindows:    7. 'NVIDIA GeForce GTX 1660 Ti with Max-Q Design' (P:0 D:0)
+[2021.11.09-10.09.52:299][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.11.09-10.09.52:300][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti with Max-Q Design
+[2021.11.09-10.09.52:300][  0]LogD3D11RHI:   Driver Version: 471.96 (internal:30.0.14.7196, unified:471.96)
+[2021.11.09-10.09.52:300][  0]LogD3D11RHI:      Driver Date: 8-27-2021
+[2021.11.09-10.09.52:300][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2021.11.09-10.09.52:532][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.09-10.09.52:532][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.09-10.09.52:532][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.09-10.09.52:584][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.11.09-10.09.52:590][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.09-10.09.53:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.09-10.09.53:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.09-10.09.53:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.09-10.09.53:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.09-10.09.53:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.09-10.09.53:364][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.09-10.09.53:365][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.09-10.09.53:365][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.09-10.09.53:365][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.09-10.09.53:365][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.09-10.09.53:365][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.09-10.09.53:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.09-10.09.53:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.09-10.09.53:445][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.09-10.09.53:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.09-10.09.53:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.09-10.09.53:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.09-10.09.53:548][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.09-10.09.53:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.09-10.09.53:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.09-10.09.53:665][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.09-10.09.53:665][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.09-10.09.53:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.11.09-10.09.53:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.11.09-10.09.53:733][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.11.09-10.09.53:757][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.11.09-10.09.53:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.09-10.09.53:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.09-10.09.53:829][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.09-10.09.53:845][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.09-10.09.53:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.09-10.09.53:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.09-10.09.53:899][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.09-10.09.53:921][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.09-10.09.54:090][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.09-10.09.54:091][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Intermediate/Shaders/WorkingDirectory/25204/).
+[2021.11.09-10.09.54:091][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ASUS ROG ZEPHYRUS/AppData/Local/Temp/UnrealShaderWorkingDir/3D1E06D14D5B28F235C95A9DFFAAE29D/'.
+[2021.11.09-10.09.54:091][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.09-10.09.54:091][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.09-10.09.56:263][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.09-10.09.56:360][  0]LogDerivedDataCache: Loaded boot cache 0.10s 77MB C:/Users/ASUS ROG ZEPHYRUS/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.09-10.09.56:360][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ASUS ROG ZEPHYRUS/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.11.09-10.09.56:361][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.09-10.09.56:361][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.09-10.09.56:361][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.09-10.09.56:361][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.09-10.09.56:382][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.09-10.09.56:382][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.09-10.09.56:382][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.09-10.09.56:408][  0]LogDerivedDataCache: Speed tests for C:/Users/ASUS ROG ZEPHYRUS/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.11.09-10.09.56:408][  0]LogDerivedDataCache: Display: Performance to C:/Users/ASUS ROG ZEPHYRUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.12ms. RandomReadSpeed=298.39MBs, RandomWriteSpeed=45.65MBs. Assigned SpeedClass 'Local'
+[2021.11.09-10.09.56:409][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ASUS ROG ZEPHYRUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.09-10.09.56:409][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.09-10.09.56:410][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.09-10.09.56:536][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.09-10.09.56:537][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.09-10.09.56:592][  0]LogAssetRegistry: FAssetRegistry took 0.0071 seconds to start up
+[2021.11.09-10.09.57:314][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.09-10.09.57:314][  0]LogInit: Active device profile: [0000023446DA7100][0000023434A37780 49] Windows
+[2021.11.09-10.09.57:315][  0]LogInit: Profiles: [0000023446DA7100][0000023434A37780 49] Windows, [0000023446D61100][0000023445BFF8C0 49] WindowsNoEditor, [0000023446DA5100][0000023445C03A00 49] WindowsServer, [0000023446D62A00][0000023445C0BB80 49] WindowsClient, [0000023446DA6900][0000023445C0FD00 49] IOS, [0000023446D61900][0000023445C121C0 49] iPadAir, [0000023446DA5800][0000023445C16340 49] iPadAir2, [0000023446D24500][0000023445C1E600 49] IPadPro, [0000023446D24600][0000023445C1A640 49] iPadAir3, [0000023446DA7300][0000023445C227C0 49] iPadAir4, [0000023446D26E00][0000023445C26940 49] iPadMini2, [0000023446DA4F00][0000023445C2AAC0 49] iPadMini3, [0000023446D24800][0000023445C2EC40 49] iPadMini4, [0000023446DA6D00][0000023445C32DC0 49] iPadMini5, [0000023446D1BD00][0000023445C3B080 49] iPhone6, [0000023446D1BE00][0000023445C370C0 49] iPodTouch6, [0000023446D27000][0000023445C43380 49] iPhone7, [0000023446D26800][0000023445C3F3C0 49] iPodTouch7, [0000023446D19500][0000023445C47540 49] iPhone5S, [0000023446D26100][0000023445C07680 49] iPhone6Plus, [0000023446D1A500][0000023445C4B7C0 49] iPhone6S, [0000023446D24900][0000023445C4F900 49] iPhone6SPlus, [0000023446D19300][0000023445C53A40 49] iPhone7Plus, [0000023446D27200][0000023445C5BBC0 49] iPhoneSE, [0000023446D1A900][0000023445C5FD40 49] iPhone8, [0000023446D25B00][0000023445C62200 49] iPhone8Plus, [0000023446D19B00][0000023445C66380 49] iPhoneX, [0000023446D25E00][0000023445C6A500 49] iPhoneXS, [0000023446D18400][0000023445C6E680 49] iPhoneXSMax, [0000023446D26D00][0000023445C72800 49] iPhoneXR, [0000023446D19100][0000023445C76980 49] iPhone11, [0000023446D24B00][0000023445C7AB00 49] iPhone11Pro, [0000023446D19600][0000023447C90C80 49] iPhone11ProMax, [0000023446D24E00][0000023447C94E00 49] iPhoneSE2, [0000023446D1A600][0000023447C98F80 49] iPhone12Mini, [0000023446D26B00][0000023447C9D100 49] iPhone12, [0000023446D1A200][0000023447CA1280 49] iPhone12Pro, [0000023446D25800][0000023447CA5400 49] iPhone12ProMax, [0000023446D1A800][0000023447CA9580 49] iPadPro105, [0000023446D25900][0000023447CAD700 49] iPadPro129, [0000023446D19E00][0000023445C57840 49] iPadPro97, [0000023446D25300][0000023447CB1980 49] iPadPro2_129, [0000023446D1AD00][0000023447CB5AC0 49] iPad5, [0000023446D24C00][0000023447CBDC40 49] iPad6, [0000023446D18600][0000023447CC0100 49] iPad7, [0000023446D26500][0000023447CC4280 49] iPad8, [0000023446D1AE00][0000023447CC8400 49] iPadPro11, [0000023446D27B00][0000023447CCC580 49] iPadPro2_11, [0000023446D19200][0000023447CD0700 49] iPadPro3_129, [0000023446D27600][0000023447CD4880 49] iPadPro4_129, [0000023446D18D00][0000023447CD8A00 49] AppleTV, [0000023446D26C00][0000023447CDCB80 49] AppleTV4K, [0000023446D1A700][0000023447CE0D00 49] TVOS, [0000023446D24300][0000023447CE4E80 49] Mac, [0000023446D1BA00][0000023447CE9000 49] MacClient, [0000023446D24D00][0000023447CED180 49] MacNoEditor, [0000023446D18C00][0000023447CF1300 49] MacServer, [0000023446D27800][0000023447CF5480 49] Linux, [0000023446D63A00][0000023447CF9600 49] LinuxAArch64, [0000023446DE5400][0000023447CFD780 49] LinuxNoEditor, [0000023446D61F00][0000023447CB98C0 49] LinuxAArch64NoEditor, [0000023446DE4600][0000023447D01A00 49] LinuxClient, [0000023446D63500][0000023447D05B40 49] LinuxAArch64Client, [0000023446DE5100][0000023447D0DCC0 49] LinuxServer, [0000023446D61600][0000023447D10180 49] LinuxAArch64Server, [0000023446DE5300][0000023447D14300 49] Android, [0000023446D60F00][0000023447D18480 49] Android_Low, [0000023446DE5800][0000023447D1C600 49] Android_Mid, [0000023446D62000][0000023447D20780 49] Android_High, [0000023446DE4F00][0000023447D24900 49] Android_Default, [0000023446D63100][0000023447D28A80 49] Android_Adreno4xx, [0000023446DE4400][0000023447D2CC00 49] Android_Adreno5xx_Low, [0000023446D61500][0000023447D30D80 49] Android_Adreno5xx, [0000023446D24100][0000023447D34F00 49] Android_Adreno6xx, [0000023446D61800][0000023447D39080 49] Android_Adreno6xx_Vulkan, [0000023446D26200][0000023447D3D200 49] Android_Mali_T6xx, [0000023446D63F00][0000023447D41380 49] Android_Mali_T7xx, [0000023446D25500][0000023447D45500 49] Android_Mali_T8xx, [0000023446D61000][0000023447D49680 49] Android_Mali_G71, [0000023446D25400][0000023447D4D800 49] Android_Mali_G72, [0000023446D61700][0000023447D09940 49] Android_Mali_G72_Vulkan, [0000023446D27C00][0000023447D51A80 49] Android_Mali_G76, [0000023446D63800][0000023447D55BC0 49] Android_Mali_G76_Vulkan, [0000023446D25700][0000023447D59D00 49] Android_Mali_G77, [0000023446D63300][0000023447D601C0 49] Android_Mali_G77_Vulkan, [0000023446D25000][0000023447D64340 49] Android_Vulkan_SM5, [0000023446D60C00][0000023447D684C0 49] Android_PowerVR_G6xxx, [0000023446D27900][0000023447D6C640 49] Android_PowerVR_GT7xxx, [0000023446D60900][0000023447D707C0 49] Android_PowerVR_GE8xxx, [0000023446D26600][0000023447D74940 49] Android_PowerVR_GM9xxx, [0000023446D60D00][0000023447D78AC0 49] Android_PowerVR_GM9xxx_Vulkan, [0000023446D26300][0000023447D7CC40 49] Android_TegraK1, [0000023446D62200][0000023447D80DC0 49] Android_Unknown_Vulkan, [0000023446D25D00][0000023447D84F40 49] Lumin, [0000023446D62700][0000023447D890C0 49] Lumin_Desktop, [0000023446D27400][0000023447D8D240 49] HoloLens, 
+[2021.11.09-10.09.57:612][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.09-10.09.57:612][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.09-10.09.57:612][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.09-10.09.57:612][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.09-10.09.57:612][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.09-10.09.57:648][  0]LogNetVersion: UI 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 703685655)
+[2021.11.09-10.09.58:749][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.09-10.09.58:885][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.135052 seconds
+[2021.11.09-10.09.58:902][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.11.09-10.09.58:902][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.11.09-10.09.58:902][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.09-10.09.59:734][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.09-10.09.59:746][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.09-10.10.00:311][  0]SourceControl: Source control is disabled
+[2021.11.09-10.10.00:311][  0]SourceControl: Source control is disabled
+[2021.11.09-10.10.00:330][  0]SourceControl: Source control is disabled
+[2021.11.09-10.10.00:339][  0]SourceControl: Source control is disabled
+[2021.11.09-10.10.00:364][  0]SourceControl: Source control is disabled
+[2021.11.09-10.10.00:382][  0]LogUProjectInfo: Found projects:
+[2021.11.09-10.10.01:029][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.09-10.10.01:097][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.09-10.10.01:097][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.09-10.10.01:288][  0]LogCollectionManager: Loaded 0 collections in 0.006220 seconds
+[2021.11.09-10.10.01:365][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Collections/' took 0.00s
+[2021.11.09-10.10.01:365][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/Developers/ASUSROGZEPHYRUS/Collections/' took 0.00s
+[2021.11.09-10.10.01:365][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/Collections/' took 0.00s
+[2021.11.09-10.10.01:365][  0]LogOcInput: OculusInput pre-init called
+[2021.11.09-10.10.01:400][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.11.09-10.10.01:400][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.11.09-10.10.01:550][  0]LogEngine: Initializing Engine...
+[2021.11.09-10.10.01:555][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.09-10.10.01:555][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.09-10.10.01:559][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.11.09-10.10.01:921][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.09-10.10.01:946][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.09-10.10.01:947][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.09-10.10.01:961][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.09-10.10.01:961][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.09-10.10.01:961][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.09-10.10.01:961][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.09-10.10.01:961][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.09-10.10.01:961][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.09-10.10.01:961][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.09-10.10.01:961][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.09-10.10.01:961][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.09-10.10.01:962][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.09-10.10.01:963][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.09-10.10.01:963][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.09-10.10.02:004][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.09-10.10.02:004][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.09-10.10.02:170][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.11.09-10.10.02:176][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.09-10.10.02:183][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.09-10.10.02:183][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.09-10.10.02:185][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.09-10.10.02:185][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.09-10.10.02:185][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.09-10.10.02:187][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.09-10.10.02:187][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.09-10.10.02:187][  0]LogInit: FAudioDevice initialized.
+[2021.11.09-10.10.02:188][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.09-10.10.02:188][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.09-10.10.02:461][  0]LogDerivedDataCache: Saved boot cache 0.27s 77MB C:/Users/ASUS ROG ZEPHYRUS/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.09-10.10.02:463][  0]LogInit: Texture streaming: Enabled
+[2021.11.09-10.10.02:498][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.11.09-10.10.02:507][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.09-10.10.02:507][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.09-10.10.02:518][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.09-10.10.02:590][  0]LogInit: Transaction tracking system initialized
+[2021.11.09-10.10.02:651][  0]BlueprintLog: New page: Editor Load
+[2021.11.09-10.10.02:799][  0]LocalizationService: Localization service is disabled
+[2021.11.09-10.10.02:864][  0]TimingProfiler: Initialize
+[2021.11.09-10.10.02:864][  0]TimingProfiler: OnSessionChanged
+[2021.11.09-10.10.02:864][  0]LoadingProfiler: Initialize
+[2021.11.09-10.10.02:864][  0]LoadingProfiler: OnSessionChanged
+[2021.11.09-10.10.02:864][  0]NetworkingProfiler: Initialize
+[2021.11.09-10.10.02:865][  0]NetworkingProfiler: OnSessionChanged
+[2021.11.09-10.10.02:865][  0]MemoryProfiler: Initialize
+[2021.11.09-10.10.02:865][  0]MemoryProfiler: OnSessionChanged
+[2021.11.09-10.10.03:248][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.11.09-10.10.03:248][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.09-10.10.03:679][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/' took 0.02s
+[2021.11.09-10.10.04:094][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.09-10.10.04:108][  0]SourceControl: Source control is disabled
+[2021.11.09-10.10.04:108][  0]LogUnrealEdMisc: Loading editor; pre map load, took 16.736
+[2021.11.09-10.10.04:109][  0]Cmd: MAP LOAD FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.09-10.10.04:110][  0]LightingResults: New page: Lighting Build
+[2021.11.09-10.10.04:112][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-10.10.04:112][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-10.10.04:113][  0]MapCheck: New page: Map Check
+[2021.11.09-10.10.04:113][  0]LightingResults: New page: Lighting Build
+[2021.11.09-10.10.04:128][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.11.09-10.10.04:839][  0]LogTexture: Display: Building textures: DeprecatedTextureFA79271141B0C16E0AB806B8FE9AB1E1 (BGRA8, 128X128)
+[2021.11.09-10.10.05:050][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownExampleMap'.
+[2021.11.09-10.10.05:054][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.11.09-10.10.05:071][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.09-10.10.05:073][  0]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2021.11.09-10.10.05:092][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.11.09-10.10.05:092][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.09-10.10.05:093][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.453ms to complete.
+[2021.11.09-10.10.05:093][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.983
+[2021.11.09-10.10.05:097][  0]LogUnrealEdMisc: Total Editor Startup Time, took 17.723
+[2021.11.09-10.10.05:335][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.09-10.10.05:348][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.09-10.10.05:364][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.09-10.10.05:377][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.09-10.10.05:412][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0236 seconds. Added 3601 classes and 859 folders.
+[2021.11.09-10.10.05:423][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.11.09-10.10.05:428][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.09-10.10.05:428][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.09-10.10.05:428][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.09-10.10.05:428][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.11.09-10.10.05:431][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.09-10.10.05:431][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.09-10.10.05:431][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.09-10.10.05:431][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.11.09-10.10.05:433][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.11.09-10.10.05:434][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.09-10.10.05:434][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.11.09-10.10.05:434][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.11.09-10.10.05:436][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.09-10.10.05:436][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.09-10.10.05:436][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.09-10.10.05:436][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.11.09-10.10.05:439][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.09-10.10.05:439][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.09-10.10.05:439][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.09-10.10.05:439][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.11.09-10.10.05:442][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.09-10.10.05:442][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.09-10.10.05:442][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.09-10.10.05:442][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2021.11.09-10.10.05:445][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.09-10.10.05:445][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.09-10.10.05:445][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.09-10.10.05:445][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2021.11.09-10.10.05:447][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.09-10.10.05:447][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.09-10.10.05:447][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.09-10.10.05:447][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2021.11.09-10.10.05:448][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.09-10.10.05:449][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.09-10.10.05:449][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.09-10.10.05:449][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2021.11.09-10.10.05:450][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.09-10.10.05:450][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.09-10.10.05:450][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.09-10.10.05:450][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2021.11.09-10.10.05:451][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.09-10.10.05:451][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.09-10.10.05:451][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.09-10.10.05:451][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2021.11.09-10.10.05:453][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.09-10.10.05:453][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.09-10.10.05:453][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.09-10.10.05:453][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2021.11.09-10.10.05:455][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.09-10.10.05:455][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.09-10.10.05:455][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.09-10.10.05:455][  0]LogPakFile: OnPakFileMounted2Time == 0.000109
+[2021.11.09-10.10.05:457][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.09-10.10.05:457][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.09-10.10.05:457][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.09-10.10.05:457][  0]LogPakFile: OnPakFileMounted2Time == 0.000115
+[2021.11.09-10.10.05:459][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.09-10.10.05:459][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.09-10.10.05:459][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.09-10.10.05:459][  0]LogPakFile: OnPakFileMounted2Time == 0.000125
+[2021.11.09-10.10.05:462][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.09-10.10.05:462][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.09-10.10.05:462][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.09-10.10.05:462][  0]LogPakFile: OnPakFileMounted2Time == 0.000132
+[2021.11.09-10.10.05:464][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.09-10.10.05:464][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.09-10.10.05:464][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.09-10.10.05:464][  0]LogPakFile: OnPakFileMounted2Time == 0.000138
+[2021.11.09-10.10.05:466][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.09-10.10.05:466][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.09-10.10.05:466][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.09-10.10.05:466][  0]LogPakFile: OnPakFileMounted2Time == 0.000145
+[2021.11.09-10.10.05:468][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.09-10.10.05:468][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.09-10.10.05:468][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.09-10.10.05:468][  0]LogPakFile: OnPakFileMounted2Time == 0.000155
+[2021.11.09-10.10.05:470][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.09-10.10.05:470][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.09-10.10.05:471][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.09-10.10.05:471][  0]LogPakFile: OnPakFileMounted2Time == 0.000162
+[2021.11.09-10.10.05:473][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.09-10.10.05:473][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.09-10.10.05:473][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.09-10.10.05:473][  0]LogPakFile: OnPakFileMounted2Time == 0.000167
+[2021.11.09-10.10.05:475][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.09-10.10.05:475][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.09-10.10.05:475][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.09-10.10.05:475][  0]LogPakFile: OnPakFileMounted2Time == 0.000173
+[2021.11.09-10.10.05:477][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.11.09-10.10.05:478][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.09-10.10.05:478][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.11.09-10.10.05:478][  0]LogPakFile: OnPakFileMounted2Time == 0.000182
+[2021.11.09-10.10.05:479][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.09-10.10.05:480][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.09-10.10.05:480][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.09-10.10.05:480][  0]LogPakFile: OnPakFileMounted2Time == 0.000191
+[2021.11.09-10.10.05:482][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.09-10.10.05:482][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.09-10.10.05:482][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.09-10.10.05:482][  0]LogPakFile: OnPakFileMounted2Time == 0.000197
+[2021.11.09-10.10.05:484][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.09-10.10.05:484][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.09-10.10.05:484][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.09-10.10.05:484][  0]LogPakFile: OnPakFileMounted2Time == 0.000203
+[2021.11.09-10.10.05:635][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.11.09-10.10.05:637][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 2 classes and 0 folders.
+[2021.11.09-10.10.05:919][  0]LogSlate: Took 0.000509 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.09-10.10.05:924][  0]LogSlate: Took 0.000569 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.09-10.10.05:940][  0]LogSlate: Took 0.000572 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.09-10.10.06:095][  0]LogRenderer: Reallocating scene render targets to support 908x432 Format 10 NumSamples 1 (Frame:1).
+[2021.11.09-10.10.07:039][  0]LogSlate: Took 0.000340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.09-10.10.07:263][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.11.09-10.10.07:263][  0]LogInput: Warning: Action SetDestination uses invalid key OculusGo_Left_Trigger_Click.
+[2021.11.09-10.10.07:263][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Back_Click.
+[2021.11.09-10.10.07:263][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.11.09-10.10.07:263][  0]LogLoad: (Engine Initialization) Total time: 19.89 seconds
+[2021.11.09-10.10.07:263][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.09-10.10.07:263][  0]LogInit: First time updating LLM stats...
+[2021.11.09-10.10.07:442][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.09-10.10.07:504][  1]LogAssetRegistry: Asset discovery search completed in 10.9148 seconds
+[2021.11.09-10.10.07:508][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2021.11.09-10.10.27:333][782]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.11.09-10.10.27:347][782]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.11.09-10.10.34:404][206]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Main
+[2021.11.09-10.10.34:407][206]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.11.09-10.10.35:941][296]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.09-10.10.35:969][296]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MAIN/UI/UI_Main/Main.Main
+[2021.11.09-10.10.36:135][296]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 126 classes and 0 folders.
+[2021.11.09-10.10.38:719][296]LogSlate: Took 0.000543 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.09-10.29.35:566][945]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MAIN/UI/UI_Main/Pocket.Pocket
+[2021.11.09-10.33.11:934][758]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.11.09-10.33.11:952][758]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.11.09-10.33.17:240][ 76]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> pocketSlot
+[2021.11.09-10.33.17:242][ 76]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.11.09-10.33.18:624][157]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MAIN/UI/UI_Main/pocketSlot.pocketSlot
+[2021.11.09-10.34.39:828][999]BlueprintLog: New page: Compile pocketSlot
+[2021.11.09-10.34.39:900][999]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2021.11.09-10.34.39:981][999]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.09-10.35.21:828][307]LogEditorTransaction: Undo Drag and Drop Widget
+[2021.11.09-10.36.14:641][898]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.09-10.36.21:194][261]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.09-10.37.51:755][ 83]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.09-10.38.00:779][574]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.09-10.38.05:572][838]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.09-10.38.56:843][324]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.09-10.39.03:976][512]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.09-10.41.32:518][877]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.11.09-10.43.44:926][521]BlueprintLog: New page: Compile pocketSlot
+[2021.11.09-10.43.44:970][521]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.11.09-10.51.25:223][  2]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.09-10.51.25:245][  2]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.09-10.51.28:983][227]LogContentBrowser: Attempting asset rename: NewFolder -> Image
+[2021.11.09-10.51.28:984][227]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.09-12.41.11:209][331]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\ASUS ROG ZEPHYRUS\Desktop\Livelihood\image\flower icon.png)
+[2021.11.09-12.41.11:239][331]LogTexture: Display: Building textures: flower_icon (BGRA8, 1280X1273)
+[2021.11.09-12.41.11:291][331]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\ASUS ROG ZEPHYRUS\Desktop\Livelihood\image\meat icon.png)
+[2021.11.09-12.41.11:299][331]LogTexture: Display: Building textures: meat_icon (BGRA8, 512X511)
+[2021.11.09-12.41.11:321][331]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\ASUS ROG ZEPHYRUS\Desktop\Livelihood\image\seed icon.png)
+[2021.11.09-12.41.11:327][331]LogTexture: Display: Building textures: seed_icon (AutoDXT, 512X512)
+[2021.11.09-12.41.57:665][801]LogTexture: Display: Building textures: seed_icon (AutoDXT, 512X512)
+[2021.11.09-12.42.25:921][709]LogTexture: Display: Building textures: seed_icon (BGRA8, 512X512)
+[2021.11.09-12.42.37:938][ 62]LogSlate: Window '3 Texture2D Objects - Property Matrix Editor' being destroyed
+[2021.11.09-12.42.37:946][ 62]LogSlate: Window '3 Texture2D Objects - Property Matrix Editor' being destroyed
+[2021.11.09-12.42.37:956][ 62]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-12.42.37:957][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-12.42.37:978][ 62]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-12.42.37:978][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-12.42.38:069][ 62]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-12.42.38:069][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-12.42.38:079][ 62]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-12.42.38:079][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-12.42.38:156][ 62]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-12.42.38:157][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-12.42.38:165][ 62]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-12.42.38:165][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-12.42.38:979][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/Image/flower_icon" FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/Image/flower_icon.uasset" SILENT=true
+[2021.11.09-12.42.39:028][104]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/flower_icon8AD28575468DF14877EF81834FFB2BD6.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/Image/flower_icon.uasset'
+[2021.11.09-12.42.39:035][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/Image/meat_icon" FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/Image/meat_icon.uasset" SILENT=true
+[2021.11.09-12.42.39:049][104]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/meat_icon4CC345C9459BACCB2F82CCA1CACACE04.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/Image/meat_icon.uasset'
+[2021.11.09-12.42.39:056][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/Image/seed_icon" FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/Image/seed_icon.uasset" SILENT=true
+[2021.11.09-12.42.39:069][104]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/seed_icon5A75C6B74247928C745F14BC0B818E3C.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/Image/seed_icon.uasset'
+[2021.11.09-12.42.39:087][104]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.09-12.42.39:088][104]LogContentValidation: Display: Validating Texture2D /Game/MAIN/Image/seed_icon.seed_icon
+[2021.11.09-12.42.39:088][104]LogContentValidation: Display: Validating Texture2D /Game/MAIN/Image/meat_icon.meat_icon
+[2021.11.09-12.42.39:088][104]LogContentValidation: Display: Validating Texture2D /Game/MAIN/Image/flower_icon.flower_icon
+[2021.11.09-12.43.57:184][688]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.09-12.43.57:200][688]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.09-12.43.59:419][822]LogContentBrowser: Attempting asset rename: NewFolder -> BP
+[2021.11.09-12.43.59:420][822]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.09-12.44.03:117][ 34]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.09-12.44.03:131][ 34]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.09-12.44.09:685][428]LogContentBrowser: Attempting asset rename: NewFolder -> Stru
+[2021.11.09-12.44.09:685][428]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.09-12.44.29:465][995]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2021.11.09-12.44.29:477][995]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2021.11.09-12.44.37:031][ 54]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> NewUserDefinedStruct
+[2021.11.09-12.44.37:053][ 54]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2021.11.09-12.44.42:754][386]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> Iteminfo
+[2021.11.09-12.44.42:783][386]LogMetaData: Removing '/Game/MAIN/BP/Stru/Iteminfo.Iteminfo' ref from Metadata '/Game/MAIN/BP/Stru/NewUserDefinedStruct.PackageMetaData'
+[2021.11.09-12.44.42:817][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/BP/Stru/Iteminfo" FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/Iteminfo.uasset" SILENT=true
+[2021.11.09-12.44.42:823][386]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Iteminfo67E1575B4320A1DD36D37EA7970D0433.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/Iteminfo.uasset'
+[2021.11.09-12.44.42:967][386]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2021.11.09-12.44.43:035][386]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2021.11.09-12.44.43:053][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.11.09-12.44.43:099][386]AssetCheck: New page: Asset Save: Iteminfo
+[2021.11.09-12.44.43:099][386]LogContentValidation: Display: Validating UserDefinedStruct /Game/MAIN/BP/Stru/Iteminfo.Iteminfo
+[2021.11.09-12.45.03:737][513]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/MAIN/BP/Stru/Iteminfo.Iteminfo
+[2021.11.09-12.45.08:337][775]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.11.09-12.45.08:338][775]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.022
+[2021.11.09-12.45.08:339][775]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAIN/BP/Stru/Iteminfo] ([1] browsable assets)...
+[2021.11.09-12.45.08:339][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAIN/BP/Stru/Iteminfo]
+[2021.11.09-12.45.08:344][775]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Iteminfo_Auto1767167FE41F71E16C354CEA5269A859E.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Autosaves/Game/MAIN/BP/Stru/Iteminfo_Auto1.uasset'
+[2021.11.09-12.45.08:345][775]LogFileHelpers: Auto-saving content packages took 0.007
+[2021.11.09-12.47.56:494][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/BP/Stru/Iteminfo" FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/Iteminfo.uasset" SILENT=true
+[2021.11.09-12.47.56:513][673]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Iteminfo65CF8F6349C1F8B45011A0B54B0C83E8.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/Iteminfo.uasset'
+[2021.11.09-12.47.56:529][673]AssetCheck: New page: Asset Save: Iteminfo
+[2021.11.09-12.47.56:529][673]LogContentValidation: Display: Validating UserDefinedStruct /Game/MAIN/BP/Stru/Iteminfo.Iteminfo
+[2021.11.09-12.48.02:561][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/BP/Stru/Iteminfo" FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/Iteminfo.uasset" SILENT=true
+[2021.11.09-12.48.02:580][739]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Iteminfo989225204D06E0B3D57237ABA3433769.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/Iteminfo.uasset'
+[2021.11.09-12.48.02:595][739]AssetCheck: New page: Asset Save: Iteminfo
+[2021.11.09-12.48.02:595][739]LogContentValidation: Display: Validating UserDefinedStruct /Game/MAIN/BP/Stru/Iteminfo.Iteminfo
+[2021.11.09-12.48.04:142][831]LogSlate: Window 'Iteminfo' being destroyed
+[2021.11.09-12.48.04:147][831]LogSlate: Window 'Iteminfo' being destroyed
+[2021.11.09-12.48.17:601][ 94]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.09-12.48.17:615][ 94]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.09-12.48.19:434][204]LogContentBrowser: Attempting asset rename: NewFolder -> Enum
+[2021.11.09-12.48.19:435][204]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.09-12.48.35:952][570]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2021.11.09-12.48.35:964][570]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2021.11.09-12.48.45:567][147]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> Item_Category
+[2021.11.09-12.48.45:568][147]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2021.11.09-12.49.06:054][343]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/MAIN/BP/Enum/Item_Category.Item_Category
+[2021.11.09-12.50.32:654][772]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.09-12.50.32:654][772]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.09-12.50.34:218][858]LogSlate: Took 0.008288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.11.09-12.50.34:219][858]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'ญ (U+0e0d)'
+[2021.11.09-12.50.34:230][858]LogSlate: Took 0.010033 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2021.11.09-12.50.35:845][950]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.09-12.50.35:846][950]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.09-12.51.02:645][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/BP/Enum/Item_Category" FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Enum/Item_Category.uasset" SILENT=true
+[2021.11.09-12.51.02:647][958]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Item_CategoryA078C82D4878755120C78DA2B3A1012B.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Enum/Item_Category.uasset'
+[2021.11.09-12.51.02:668][958]AssetCheck: New page: Asset Save: Item_Category
+[2021.11.09-12.51.02:668][958]LogContentValidation: Display: Validating UserDefinedEnum /Game/MAIN/BP/Enum/Item_Category.Item_Category
+[2021.11.09-12.51.28:344][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/BP/Enum/Item_Category" FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Enum/Item_Category.uasset" SILENT=true
+[2021.11.09-12.51.28:347][549]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Item_CategoryB60B89B740572DF654C233BCE6FE7601.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Enum/Item_Category.uasset'
+[2021.11.09-12.51.28:364][549]AssetCheck: New page: Asset Save: Item_Category
+[2021.11.09-12.51.28:364][549]LogContentValidation: Display: Validating UserDefinedEnum /Game/MAIN/BP/Enum/Item_Category.Item_Category
+[2021.11.09-12.51.36:653][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/BP/Enum/Item_Category" FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Enum/Item_Category.uasset" SILENT=true
+[2021.11.09-12.51.36:656][985]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Item_Category52BC626A4141FF5D6319BCAF3982BAB0.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Enum/Item_Category.uasset'
+[2021.11.09-12.51.36:672][985]AssetCheck: New page: Asset Save: Item_Category
+[2021.11.09-12.51.36:672][985]LogContentValidation: Display: Validating UserDefinedEnum /Game/MAIN/BP/Enum/Item_Category.Item_Category
+[2021.11.09-12.51.59:486][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/BP/Enum/Item_Category" FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Enum/Item_Category.uasset" SILENT=true
+[2021.11.09-12.51.59:489][165]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Item_Category480777E54A20B56F0E045B89A88DBEC8.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Enum/Item_Category.uasset'
+[2021.11.09-12.51.59:504][165]AssetCheck: New page: Asset Save: Item_Category
+[2021.11.09-12.51.59:504][165]LogContentValidation: Display: Validating UserDefinedEnum /Game/MAIN/BP/Enum/Item_Category.Item_Category
+[2021.11.09-12.52.00:012][196]LogSlate: Window 'Item_Category' being destroyed
+[2021.11.09-12.52.00:020][196]LogSlate: Window 'Item_Category' being destroyed
+[2021.11.09-12.52.01:869][306]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/MAIN/BP/Stru/Iteminfo.Iteminfo
+[2021.11.09-12.52.52:894][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/BP/Stru/Iteminfo" FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/Iteminfo.uasset" SILENT=true
+[2021.11.09-12.52.52:915][454]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Iteminfo452AC48D4C90B41E2C4DFE85B51EA906.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/Iteminfo.uasset'
+[2021.11.09-12.52.52:932][454]AssetCheck: New page: Asset Save: Iteminfo
+[2021.11.09-12.52.52:932][454]LogContentValidation: Display: Validating UserDefinedStruct /Game/MAIN/BP/Stru/Iteminfo.Iteminfo
+[2021.11.09-12.52.53:584][492]LogSlate: Window 'Iteminfo' being destroyed
+[2021.11.09-12.52.53:589][492]LogSlate: Window 'Iteminfo' being destroyed
+[2021.11.09-12.53.11:727][750]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.09-12.53.11:740][750]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.09-12.53.14:677][927]LogContentBrowser: Attempting asset rename: NewFolder -> ItemClass
+[2021.11.09-12.53.14:678][927]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.09-12.53.41:138][407]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.11.09-12.53.41:150][407]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.11.09-12.53.41:161][407]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.11.09-12.53.45:165][648]LogContentBrowser: Attempting asset rename: NewBlueprint -> MasterItem
+[2021.11.09-12.53.45:170][648]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.11.09-12.53.50:530][757]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MAIN/BP/ItemClass/MasterItem.MasterItem
+[2021.11.09-12.53.51:232][757]LogRenderer: Reallocating scene render targets to support 908x536 Format 10 NumSamples 1 (Frame:1).
+[2021.11.09-12.54.17:164][675]LogSlate: Took 0.000362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.09-12.54.17:613][698]BlueprintLog: New page: Compile MasterItem
+[2021.11.09-12.54.17:654][698]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.11.09-12.54.40:703][187]BlueprintLog: New page: Compile MasterItem
+[2021.11.09-12.54.40:707][187]LogClass: Warning: Type mismatch in Item_Infomation of MasterItem_C - Previous (BoolProperty) Current(StructProperty) for package:  FObjectReader
+[2021.11.09-12.54.40:751][187]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.11.09-12.54.41:230][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/BP/ItemClass/MasterItem" FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/ItemClass/MasterItem.uasset" SILENT=true
+[2021.11.09-12.54.41:255][210]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/MasterItemFAD62CEC43328C573F7733977D4A3E62.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/ItemClass/MasterItem.uasset'
+[2021.11.09-12.54.41:273][210]AssetCheck: New page: Asset Save: MasterItem
+[2021.11.09-12.54.41:273][210]LogContentValidation: Display: Validating Blueprint /Game/MAIN/BP/ItemClass/MasterItem.MasterItem
+[2021.11.09-12.55.25:309][ 84]BlueprintLog: New page: Compile MasterItem
+[2021.11.09-12.55.25:362][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.11.09-12.55.50:242][177]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.11.09-12.55.50:243][177]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.024
+[2021.11.09-12.55.50:244][177]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAIN/BP/ItemClass/MasterItem] ([1] browsable assets)...
+[2021.11.09-12.55.50:244][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAIN/BP/ItemClass/MasterItem]
+[2021.11.09-12.55.50:263][177]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/MasterItem_Auto2982A27544E18EFA119D7F39040B43B7C.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Autosaves/Game/MAIN/BP/ItemClass/MasterItem_Auto2.uasset'
+[2021.11.09-12.55.50:264][177]LogFileHelpers: Auto-saving content packages took 0.021
+[2021.11.09-13.02.15:778][623]LogContentBrowser: Deferred new asset file creation: MasterItem_Child
+[2021.11.09-13.02.15:809][623]LogContentBrowser: Creating deferred item: MasterItem_Child
+[2021.11.09-13.02.27:063][299]LogContentBrowser: Attempting asset rename: MasterItem_Child -> SeedDrop
+[2021.11.09-13.02.27:068][299]LogContentBrowser: End creating deferred item MasterItem_Child
+[2021.11.09-13.02.40:295][606]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MAIN/BP/ItemClass/SeedDrop.SeedDrop
+[2021.11.09-13.05.37:137][996]BlueprintLog: New page: Compile SeedDrop
+[2021.11.09-13.05.37:199][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.11.09-13.06.02:286][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.11.09-13.06.02:287][ 91]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.028
+[2021.11.09-13.06.02:287][ 91]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAIN/BP/ItemClass/SeedDrop] ([1] browsable assets)...
+[2021.11.09-13.06.02:287][ 91]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAIN/BP/ItemClass/SeedDrop]
+[2021.11.09-13.06.02:311][ 91]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/SeedDrop_Auto37A995E734A7E5B7F52848595D60FC2E2.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Autosaves/Game/MAIN/BP/ItemClass/SeedDrop_Auto3.uasset'
+[2021.11.09-13.06.02:312][ 91]LogFileHelpers: Auto-saving content packages took 0.025
+[2021.11.09-13.06.53:735][438]LogContentBrowser: Deferred new asset file creation: MasterItem_Child
+[2021.11.09-13.06.53:759][438]LogContentBrowser: Creating deferred item: MasterItem_Child
+[2021.11.09-13.06.58:135][701]LogContentBrowser: Attempting asset rename: MasterItem_Child -> MeatDrop
+[2021.11.09-13.06.58:140][701]LogContentBrowser: End creating deferred item MasterItem_Child
+[2021.11.09-13.07.00:048][808]LogContentBrowser: Deferred new asset file creation: MasterItem_Child
+[2021.11.09-13.07.00:075][808]LogContentBrowser: Creating deferred item: MasterItem_Child
+[2021.11.09-13.07.10:897][458]LogContentBrowser: Attempting asset rename: MasterItem_Child -> FlowerDrop
+[2021.11.09-13.07.10:902][458]LogContentBrowser: End creating deferred item MasterItem_Child
+[2021.11.09-13.07.12:574][556]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MAIN/BP/ItemClass/FlowerDrop.FlowerDrop
+[2021.11.09-13.07.31:922][644]BlueprintLog: New page: Compile FlowerDrop
+[2021.11.09-13.07.31:975][644]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.11.09-13.08.06:395][561]BlueprintLog: New page: Compile FlowerDrop
+[2021.11.09-13.08.06:463][561]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2021.11.09-13.08.11:062][827]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MAIN/BP/ItemClass/MeatDrop.MeatDrop
+[2021.11.09-13.09.14:804][247]BlueprintLog: New page: Compile MeatDrop
+[2021.11.09-13.09.14:873][247]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.11.09-13.09.48:882][613]LogSlate: Window 'MeatDrop' being destroyed
+[2021.11.09-13.09.48:896][613]LogSlate: Window 'MeatDrop' being destroyed
+[2021.11.09-13.09.48:906][613]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-13.09.48:906][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-13.09.48:988][613]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.11.09-13.09.48:988][613]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-13.09.48:988][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-13.09.49:062][613]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.11.09-13.09.49:062][613]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-13.09.49:062][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-13.09.49:129][613]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.11.09-13.09.49:129][613]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-13.09.49:129][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-13.10.10:527][984]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2021.11.09-13.10.10:539][984]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2021.11.09-13.10.15:425][278]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> InventorySlot
+[2021.11.09-13.10.15:437][278]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2021.11.09-13.10.41:129][524]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/MAIN/BP/Stru/InventorySlot.InventorySlot
+[2021.11.09-13.11.34:309][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/BP/Stru/InventorySlot" FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/InventorySlot.uasset" SILENT=true
+[2021.11.09-13.11.34:318][157]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/InventorySlot77445C8A434AA6D4D3F518A81280AAE8.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/InventorySlot.uasset'
+[2021.11.09-13.11.34:338][157]AssetCheck: New page: Asset Save: InventorySlot
+[2021.11.09-13.11.34:338][157]LogContentValidation: Display: Validating UserDefinedStruct /Game/MAIN/BP/Stru/InventorySlot.InventorySlot
+[2021.11.09-13.11.34:857][187]LogSlate: Window 'InventorySlot' being destroyed
+[2021.11.09-13.11.34:864][187]LogSlate: Window 'InventorySlot' being destroyed
+[2021.11.09-13.11.51:618][414]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.11.09-13.11.52:228][414]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.11.09-13.11.52:241][414]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.11.09-13.11.52:252][414]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.11.09-13.11.57:441][726]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_inventory
+[2021.11.09-13.11.57:445][726]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.11.09-13.12.10:629][828]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MAIN/BP/BP_inventory.BP_inventory
+[2021.11.09-13.13.53:876][399]BlueprintLog: New page: Compile BP_inventory
+[2021.11.09-13.13.53:922][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.11.09-13.14.12:483][700]BlueprintLog: New page: Compile BP_inventory
+[2021.11.09-13.14.12:523][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.11.09-13.14.13:047][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/BP/BP_inventory" FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/BP_inventory.uasset" SILENT=true
+[2021.11.09-13.14.13:094][728]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/BP_inventory2E4BD52D471F59861028BEA40A3DE34A.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/BP_inventory.uasset'
+[2021.11.09-13.14.13:112][728]AssetCheck: New page: Asset Save: BP_inventory
+[2021.11.09-13.14.13:112][728]LogContentValidation: Display: Validating Blueprint /Game/MAIN/BP/BP_inventory.BP_inventory
+[2021.11.09-13.14.52:420][573]BlueprintLog: New page: Compile BP_inventory
+[2021.11.09-13.14.52:458][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.11.09-13.14.52:930][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/BP/BP_inventory" FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/BP_inventory.uasset" SILENT=true
+[2021.11.09-13.14.52:955][598]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/BP_inventory0C3216314F063B6EC7DE81976655BD1E.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/BP_inventory.uasset'
+[2021.11.09-13.14.52:975][598]AssetCheck: New page: Asset Save: BP_inventory
+[2021.11.09-13.14.52:975][598]LogContentValidation: Display: Validating Blueprint /Game/MAIN/BP/BP_inventory.BP_inventory
+[2021.11.09-13.15.59:384][175]BlueprintLog: New page: Compile BP_inventory
+[2021.11.09-13.15.59:421][175]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.11.09-13.16.00:264][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/BP/BP_inventory" FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/BP_inventory.uasset" SILENT=true
+[2021.11.09-13.16.00:306][220]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/BP_inventoryE89BFC5E4085502BC9358B87E01FF4E3.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/BP_inventory.uasset'
+[2021.11.09-13.16.00:326][220]AssetCheck: New page: Asset Save: BP_inventory
+[2021.11.09-13.16.00:326][220]LogContentValidation: Display: Validating Blueprint /Game/MAIN/BP/BP_inventory.BP_inventory
+[2021.11.09-13.16.29:007][183]BlueprintLog: New page: Compile BP_inventory
+[2021.11.09-13.16.29:050][183]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.11.09-13.17.50:006][236]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.11.09-13.17.50:008][236]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.030
+[2021.11.09-13.17.50:009][236]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAIN/BP/ItemClass/MeatDrop] ([1] browsable assets)...
+[2021.11.09-13.17.50:009][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAIN/BP/ItemClass/MeatDrop]
+[2021.11.09-13.17.50:034][236]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/MeatDrop_Auto4EFAA86C34CD6D6BCD1CC368FD0071C55.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Autosaves/Game/MAIN/BP/ItemClass/MeatDrop_Auto4.uasset'
+[2021.11.09-13.17.50:036][236]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAIN/BP/ItemClass/FlowerDrop] ([1] browsable assets)...
+[2021.11.09-13.17.50:036][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAIN/BP/ItemClass/FlowerDrop]
+[2021.11.09-13.17.50:060][236]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/FlowerDrop_Auto49E143A3D43B7A99F5DF94CA93D7978D8.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Autosaves/Game/MAIN/BP/ItemClass/FlowerDrop_Auto4.uasset'
+[2021.11.09-13.17.50:062][236]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAIN/BP/BP_inventory] ([1] browsable assets)...
+[2021.11.09-13.17.50:062][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAIN/BP/BP_inventory]
+[2021.11.09-13.17.50:091][236]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/BP_inventory_Auto43ECFEA774EC4F5595F1D6993BA8E9700.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Autosaves/Game/MAIN/BP/BP_inventory_Auto4.uasset'
+[2021.11.09-13.17.50:092][236]LogFileHelpers: Auto-saving content packages took 0.085
+[2021.11.09-13.18.30:801][118]BlueprintLog: New page: Compile BP_inventory
+[2021.11.09-13.18.30:839][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.11.09-13.20.06:504][862]BlueprintLog: New page: Compile BP_inventory
+[2021.11.09-13.20.06:544][862]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.11.09-13.22.58:384][186]BlueprintLog: New page: Compile BP_inventory
+[2021.11.09-13.22.58:427][186]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.11.09-13.23.08:523][780]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/MAIN/BP/Stru/InventorySlot.InventorySlot
+[2021.11.09-13.23.22:981][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/BP/Stru/InventorySlot" FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/InventorySlot.uasset" SILENT=true
+[2021.11.09-13.23.22:990][161]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/InventorySlot2BDD0F0043D9D702F22A2EAFB4EDC51D.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/InventorySlot.uasset'
+[2021.11.09-13.23.23:007][161]AssetCheck: New page: Asset Save: InventorySlot
+[2021.11.09-13.23.23:008][161]LogContentValidation: Display: Validating UserDefinedStruct /Game/MAIN/BP/Stru/InventorySlot.InventorySlot
+[2021.11.09-13.23.37:727][976]BlueprintLog: New page: Compile BP_inventory
+[2021.11.09-13.23.37:768][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.11.09-13.27.03:101][540]BlueprintLog: New page: Compile BP_inventory
+[2021.11.09-13.27.03:145][540]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.11.09-13.29.51:176][ 22]BlueprintLog: New page: Compile BP_inventory
+[2021.11.09-13.29.51:223][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.11.09-13.31.06:064][589]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.11.09-13.31.06:066][589]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.026
+[2021.11.09-13.31.06:067][589]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAIN/BP/BP_inventory] ([1] browsable assets)...
+[2021.11.09-13.31.06:067][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAIN/BP/BP_inventory]
+[2021.11.09-13.31.06:113][589]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/BP_inventory_Auto5F1B488D0418D2DFDE2CE56874E2A737A.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Autosaves/Game/MAIN/BP/BP_inventory_Auto5.uasset'
+[2021.11.09-13.31.06:114][589]LogFileHelpers: Auto-saving content packages took 0.047
+[2021.11.09-13.31.11:874][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/BP/Stru/InventorySlot" FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/InventorySlot.uasset" SILENT=true
+[2021.11.09-13.31.11:882][921]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/InventorySlotD4A1D26249C5E27EDB6CC685C73CED38.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/InventorySlot.uasset'
+[2021.11.09-13.31.11:899][921]AssetCheck: New page: Asset Save: InventorySlot
+[2021.11.09-13.31.11:899][921]LogContentValidation: Display: Validating UserDefinedStruct /Game/MAIN/BP/Stru/InventorySlot.InventorySlot
+[2021.11.09-13.31.34:184][104]BlueprintLog: New page: Compile BP_inventory
+[2021.11.09-13.31.34:188][104]LogBlueprint: Error: [AssetLog] C:\Users\ASUS ROG ZEPHYRUS\Desktop\Livelihood\UI\Content\MAIN\BP\BP_inventory.uasset: [Compiler] In use pin  Item Class  no longer exists on node  Break InventorySlot . Please refresh node or break links to remove pin.
+[2021.11.09-13.31.34:245][104]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2021.11.09-13.31.57:300][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/BP/Stru/InventorySlot" FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/InventorySlot.uasset" SILENT=true
+[2021.11.09-13.31.57:331][953]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/InventorySlotDF0EC6D34C2D3749D8FFEFBC7FD01920.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/InventorySlot.uasset'
+[2021.11.09-13.31.57:352][953]AssetCheck: New page: Asset Save: InventorySlot
+[2021.11.09-13.31.57:352][953]LogContentValidation: Display: Validating UserDefinedStruct /Game/MAIN/BP/Stru/InventorySlot.InventorySlot
+[2021.11.09-13.32.16:444][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/BP/Stru/InventorySlot" FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/InventorySlot.uasset" SILENT=true
+[2021.11.09-13.32.16:456][514]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/InventorySlot33C12ADA4DB7D1851608DBA34CED865B.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/InventorySlot.uasset'
+[2021.11.09-13.32.16:478][514]AssetCheck: New page: Asset Save: InventorySlot
+[2021.11.09-13.32.16:478][514]LogContentValidation: Display: Validating UserDefinedStruct /Game/MAIN/BP/Stru/InventorySlot.InventorySlot
+[2021.11.09-13.32.21:227][638]BlueprintLog: New page: Compile BP_inventory
+[2021.11.09-13.32.21:231][638]LogBlueprint: Error: [AssetLog] C:\Users\ASUS ROG ZEPHYRUS\Desktop\Livelihood\UI\Content\MAIN\BP\BP_inventory.uasset: [Compiler] In use pin  Item Class  no longer exists on node  Break InventorySlot . Please refresh node or break links to remove pin.
+[2021.11.09-13.32.21:270][638]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.11.09-13.41.06:572][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.11.09-13.41.06:573][467]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.027
+[2021.11.09-13.41.06:574][467]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAIN/BP/BP_inventory] ([1] browsable assets)...
+[2021.11.09-13.41.06:574][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAIN/BP/BP_inventory]
+[2021.11.09-13.41.06:613][467]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/BP_inventory_Auto67EC0E0754B8332093BF20095AD256E15.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Autosaves/Game/MAIN/BP/BP_inventory_Auto6.uasset'
+[2021.11.09-13.41.06:614][467]LogFileHelpers: Auto-saving content packages took 0.041
+[2021.11.09-15.30.38:243][428]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MAIN/BP/ItemClass/MasterItem.MasterItem
+[2021.11.09-15.31.36:121][333]BlueprintLog: New page: Compile MasterItem
+[2021.11.09-15.31.36:132][333]LogClass: Warning: Type mismatch in Item_Infomation of MasterItem_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2021.11.09-15.31.36:132][333]LogClass: Warning: Type mismatch in Item_Infomation of FlowerDrop_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2021.11.09-15.31.36:133][333]LogClass: Warning: Type mismatch in Item_Infomation of MeatDrop_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2021.11.09-15.31.36:133][333]LogClass: Warning: Type mismatch in Item_Infomation of SeedDrop_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2021.11.09-15.31.36:201][333]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2021.11.09-15.31.44:044][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/BP/Stru/InventorySlot" FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/InventorySlot.uasset" SILENT=true
+[2021.11.09-15.31.44:053][795]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/InventorySlotF60CBA2F453E159BCA02C7A170775487.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/InventorySlot.uasset'
+[2021.11.09-15.31.44:069][795]AssetCheck: New page: Asset Save: InventorySlot
+[2021.11.09-15.31.44:069][795]LogContentValidation: Display: Validating UserDefinedStruct /Game/MAIN/BP/Stru/InventorySlot.InventorySlot
+[2021.11.09-15.31.55:374][464]BlueprintLog: New page: Compile BP_inventory
+[2021.11.09-15.31.55:378][464]LogBlueprint: Error: [AssetLog] C:\Users\ASUS ROG ZEPHYRUS\Desktop\Livelihood\UI\Content\MAIN\BP\BP_inventory.uasset: [Compiler] In use pin  Item Class  no longer exists on node  Break InventorySlot . Please refresh node or break links to remove pin.
+[2021.11.09-15.31.55:419][464]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.11.09-15.31.56:246][512]BlueprintLog: New page: Compile BP_inventory
+[2021.11.09-15.31.56:249][512]LogBlueprint: Error: [AssetLog] C:\Users\ASUS ROG ZEPHYRUS\Desktop\Livelihood\UI\Content\MAIN\BP\BP_inventory.uasset: [Compiler] In use pin  Item Class  no longer exists on node  Break InventorySlot . Please refresh node or break links to remove pin.
+[2021.11.09-15.31.56:293][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.11.09-15.32.12:177][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/BP/Stru/InventorySlot" FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/InventorySlot.uasset" SILENT=true
+[2021.11.09-15.32.12:185][431]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/InventorySlotBA561AE34F20EAFE0A9A8A842CC3F40D.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/InventorySlot.uasset'
+[2021.11.09-15.32.12:202][431]AssetCheck: New page: Asset Save: InventorySlot
+[2021.11.09-15.32.12:202][431]LogContentValidation: Display: Validating UserDefinedStruct /Game/MAIN/BP/Stru/InventorySlot.InventorySlot
+[2021.11.09-15.32.35:102][782]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/MAIN/BP/Stru/Iteminfo.Iteminfo
+[2021.11.09-15.33.05:589][623]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.11.09-15.33.05:591][623]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.032
+[2021.11.09-15.33.05:591][623]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAIN/BP/Stru/Iteminfo] ([1] browsable assets)...
+[2021.11.09-15.33.05:591][623]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAIN/BP/Stru/Iteminfo]
+[2021.11.09-15.33.05:610][623]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Iteminfo_Auto7D3F9656742EB683FB265D1BEB92DCCF2.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Autosaves/Game/MAIN/BP/Stru/Iteminfo_Auto7.uasset'
+[2021.11.09-15.33.05:611][623]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAIN/BP/ItemClass/MasterItem] ([1] browsable assets)...
+[2021.11.09-15.33.05:611][623]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAIN/BP/ItemClass/MasterItem]
+[2021.11.09-15.33.05:632][623]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/MasterItem_Auto78077A8F5451102A8B599E2895C34F87A.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Autosaves/Game/MAIN/BP/ItemClass/MasterItem_Auto7.uasset'
+[2021.11.09-15.33.05:633][623]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAIN/BP/ItemClass/SeedDrop] ([1] browsable assets)...
+[2021.11.09-15.33.05:633][623]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAIN/BP/ItemClass/SeedDrop]
+[2021.11.09-15.33.05:655][623]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/SeedDrop_Auto79D11B9AB4398AC3AB6F892AC3AAC20DD.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Autosaves/Game/MAIN/BP/ItemClass/SeedDrop_Auto7.uasset'
+[2021.11.09-15.33.05:656][623]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAIN/BP/ItemClass/MeatDrop] ([1] browsable assets)...
+[2021.11.09-15.33.05:656][623]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAIN/BP/ItemClass/MeatDrop]
+[2021.11.09-15.33.05:679][623]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/MeatDrop_Auto7E853AD45494BF8F1E93CA98628451136.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Autosaves/Game/MAIN/BP/ItemClass/MeatDrop_Auto7.uasset'
+[2021.11.09-15.33.05:680][623]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAIN/BP/ItemClass/FlowerDrop] ([1] browsable assets)...
+[2021.11.09-15.33.05:680][623]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAIN/BP/ItemClass/FlowerDrop]
+[2021.11.09-15.33.05:702][623]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/FlowerDrop_Auto7B05DA20247F5C41448F532B0D0A294E2.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Autosaves/Game/MAIN/BP/ItemClass/FlowerDrop_Auto7.uasset'
+[2021.11.09-15.33.05:703][623]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAIN/BP/BP_inventory] ([1] browsable assets)...
+[2021.11.09-15.33.05:703][623]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAIN/BP/BP_inventory]
+[2021.11.09-15.33.05:747][623]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/BP_inventory_Auto7E61817C345521934F1560CAF1E8BDBE2.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Autosaves/Game/MAIN/BP/BP_inventory_Auto7.uasset'
+[2021.11.09-15.33.05:748][623]LogFileHelpers: Auto-saving content packages took 0.158
+[2021.11.09-15.33.26:228][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/BP/Stru/Iteminfo" FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/Iteminfo.uasset" SILENT=true
+[2021.11.09-15.33.26:247][ 29]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Iteminfo69ED7E674D36B771D5DABC95284B4B3F.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/Iteminfo.uasset'
+[2021.11.09-15.33.26:263][ 29]AssetCheck: New page: Asset Save: Iteminfo
+[2021.11.09-15.33.26:263][ 29]LogContentValidation: Display: Validating UserDefinedStruct /Game/MAIN/BP/Stru/Iteminfo.Iteminfo
+[2021.11.09-15.33.28:472][150]BlueprintLog: New page: Compile MasterItem
+[2021.11.09-15.33.28:525][150]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.11.09-15.33.31:402][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/BP/Stru/InventorySlot" FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/InventorySlot.uasset" SILENT=true
+[2021.11.09-15.33.31:411][315]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/InventorySlotC4D5B8F94B9AF09522DB928B72E6A099.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/InventorySlot.uasset'
+[2021.11.09-15.33.31:427][315]AssetCheck: New page: Asset Save: InventorySlot
+[2021.11.09-15.33.31:427][315]LogContentValidation: Display: Validating UserDefinedStruct /Game/MAIN/BP/Stru/InventorySlot.InventorySlot
+[2021.11.09-15.33.35:097][525]BlueprintLog: New page: Compile BP_inventory
+[2021.11.09-15.33.35:101][525]LogBlueprint: Error: [AssetLog] C:\Users\ASUS ROG ZEPHYRUS\Desktop\Livelihood\UI\Content\MAIN\BP\BP_inventory.uasset: [Compiler] In use pin  Item Class  no longer exists on node  Break InventorySlot . Please refresh node or break links to remove pin.
+[2021.11.09-15.33.35:142][525]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.11.09-15.34.09:813][568]BlueprintLog: New page: Compile BP_inventory
+[2021.11.09-15.34.09:817][568]LogBlueprint: Error: [AssetLog] C:\Users\ASUS ROG ZEPHYRUS\Desktop\Livelihood\UI\Content\MAIN\BP\BP_inventory.uasset: [Compiler] In use pin  Item Class  no longer exists on node  Break InventorySlot . Please refresh node or break links to remove pin.
+[2021.11.09-15.34.09:860][568]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.11.09-15.35.32:813][307]BlueprintLog: New page: Compile BP_inventory
+[2021.11.09-15.35.32:818][307]LogBlueprint: Error: [AssetLog] C:\Users\ASUS ROG ZEPHYRUS\Desktop\Livelihood\UI\Content\MAIN\BP\BP_inventory.uasset: [Compiler] Can't connect pins  Index  and  Dimension 1 : Array of Integers is not compatible with Integer.
+[2021.11.09-15.35.32:818][307]LogBlueprint: Error: [AssetLog] C:\Users\ASUS ROG ZEPHYRUS\Desktop\Livelihood\UI\Content\MAIN\BP\BP_inventory.uasset: [Compiler] Can't connect pins  Dimension 1  and  Index : Integer is not compatible with Array of Integers.
+[2021.11.09-15.35.32:818][307]LogBlueprint: Error: [AssetLog] C:\Users\ASUS ROG ZEPHYRUS\Desktop\Livelihood\UI\Content\MAIN\BP\BP_inventory.uasset: [Compiler] In use pin  Item Class  no longer exists on node  Break InventorySlot . Please refresh node or break links to remove pin.
+[2021.11.09-15.35.32:873][307]LogUObjectHash: Compacting FUObjectHashTables data took   6.06ms
+[2021.11.09-15.35.39:728][693]BlueprintLog: New page: Compile BP_inventory
+[2021.11.09-15.35.39:733][693]LogBlueprint: Error: [AssetLog] C:\Users\ASUS ROG ZEPHYRUS\Desktop\Livelihood\UI\Content\MAIN\BP\BP_inventory.uasset: [Compiler] In use pin  Item Class  no longer exists on node  Break InventorySlot . Please refresh node or break links to remove pin.
+[2021.11.09-15.35.39:789][693]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.11.09-15.36.27:931][981]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.11.09-15.36.32:222][201]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.11.09-15.36.32:235][201]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.11.09-15.39.57:871][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/BP/Stru/InventorySlot" FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/InventorySlot.uasset" SILENT=true
+[2021.11.09-15.39.57:882][814]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/InventorySlot2E18EAFC46C7BD5CB53F978A11BCA69B.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/InventorySlot.uasset'
+[2021.11.09-15.39.57:904][814]AssetCheck: New page: Asset Save: InventorySlot
+[2021.11.09-15.39.57:904][814]LogContentValidation: Display: Validating UserDefinedStruct /Game/MAIN/BP/Stru/InventorySlot.InventorySlot
+[2021.11.09-15.40.12:756][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAIN/BP/Stru/Iteminfo" FILE="../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/Iteminfo.uasset" SILENT=true
+[2021.11.09-15.40.12:796][667]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Iteminfo58DAE11F414205F4EB2AB1815791FF34.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Content/MAIN/BP/Stru/Iteminfo.uasset'
+[2021.11.09-15.40.12:818][667]AssetCheck: New page: Asset Save: Iteminfo
+[2021.11.09-15.40.12:818][667]LogContentValidation: Display: Validating UserDefinedStruct /Game/MAIN/BP/Stru/Iteminfo.Iteminfo
+[2021.11.09-15.40.17:362][932]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MAIN/BP/ItemClass/FlowerDrop.FlowerDrop
+[2021.11.09-15.40.27:916][518]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-15.40.27:916][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-15.40.34:805][900]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MAIN/BP/ItemClass/FlowerDrop.FlowerDrop
+[2021.11.09-15.40.43:823][399]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-15.40.43:823][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-15.40.43:919][399]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MAIN/BP/ItemClass/FlowerDrop.FlowerDrop
+[2021.11.09-15.40.56:535][ 47]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-15.40.56:535][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-15.41.02:555][382]BlueprintLog: New page: Compile MasterItem
+[2021.11.09-15.41.02:566][382]LogClass: Warning: Type mismatch in Item_Infomation of MasterItem_C - Previous (ArrayProperty) Current(StructProperty) for package:  FObjectReader
+[2021.11.09-15.41.02:566][382]LogClass: Warning: Type mismatch in Item_Infomation of FlowerDrop_C - Previous (ArrayProperty) Current(StructProperty) for package:  FObjectReader
+[2021.11.09-15.41.02:566][382]LogClass: Warning: Type mismatch in Item_Infomation of MeatDrop_C - Previous (ArrayProperty) Current(StructProperty) for package:  FObjectReader
+[2021.11.09-15.41.02:567][382]LogClass: Warning: Type mismatch in Item_Infomation of SeedDrop_C - Previous (ArrayProperty) Current(StructProperty) for package:  FObjectReader
+[2021.11.09-15.41.02:638][382]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2021.11.09-15.41.07:070][632]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MAIN/BP/ItemClass/FlowerDrop.FlowerDrop
+[2021.11.09-15.41.16:272][117]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MAIN/BP/ItemClass/MeatDrop.MeatDrop
+[2021.11.09-15.41.18:926][237]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-15.41.18:926][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-15.41.19:909][286]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.11.09-15.41.19:910][286]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-15.41.19:910][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-15.41.24:525][541]BlueprintLog: New page: Compile MasterItem
+[2021.11.09-15.41.24:615][541]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2021.11.09-15.41.27:247][684]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2021.11.09-15.41.30:520][684]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.09-15.41.31:320][729]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MAIN/BP/ItemClass/FlowerDrop.FlowerDrop
+[2021.11.09-15.41.39:956][182]LogContentBrowser: Deferred new asset file creation: MasterItem_Child
+[2021.11.09-15.41.39:982][182]LogContentBrowser: Creating deferred item: MasterItem_Child
+[2021.11.09-15.41.42:670][344]LogContentBrowser: Attempting asset rename: MasterItem_Child -> Flower
+[2021.11.09-15.41.42:680][344]LogContentBrowser: End creating deferred item MasterItem_Child
+[2021.11.09-15.41.44:097][426]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MAIN/BP/ItemClass/Flower.Flower
+[2021.11.09-15.42.09:725][800]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-15.42.09:726][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-15.42.13:787][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2021.11.09-15.42.15:460][ 30]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.09-15.42.15:557][ 30]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/MAIN/BP/ItemClass/FlowerDrop.FlowerDrop
+	Asset Name: /Game/MAIN/BP/ItemClass/MeatDrop.MeatDrop
+	Asset Name: /Game/MAIN/BP/ItemClass/SeedDrop.SeedDrop
+[2021.11.09-15.42.16:765][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.11.09-15.42.55:731][ 83]BlueprintLog: New page: Compile Flower
+[2021.11.09-15.42.55:796][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2021.11.09-15.43.01:112][347]BlueprintLog: New page: Compile Flower
+[2021.11.09-15.43.01:180][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.11.09-15.43.01:950][383]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.11.09-15.43.01:950][383]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-15.43.01:950][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.09-15.43.04:546][515]LogContentBrowser: Deferred new asset file creation: MasterItem_Child
+[2021.11.09-15.43.04:579][515]LogContentBrowser: Creating deferred item: MasterItem_Child
+[2021.11.09-15.43.06:601][637]LogContentBrowser: Attempting asset rename: MasterItem_Child -> meat
+[2021.11.09-15.43.06:610][637]LogContentBrowser: End creating deferred item MasterItem_Child
+[2021.11.09-15.43.08:727][741]LogContentBrowser: Deferred new asset file creation: MasterItem_Child
+[2021.11.09-15.43.08:760][741]LogContentBrowser: Creating deferred item: MasterItem_Child
+[2021.11.09-15.43.10:981][875]LogContentBrowser: Attempting asset rename: MasterItem_Child -> seed
+[2021.11.09-15.43.10:989][875]LogContentBrowser: End creating deferred item MasterItem_Child
+[2021.11.09-15.43.12:881][986]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MAIN/BP/ItemClass/seed.seed
+[2021.11.09-15.43.43:961][371]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2021.11.09-15.43.43:962][371]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.057
+[2021.11.09-15.43.43:962][371]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAIN/BP/ItemClass/MasterItem] ([1] browsable assets)...
+[2021.11.09-15.43.43:963][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAIN/BP/ItemClass/MasterItem]
+[2021.11.09-15.43.43:998][371]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/MasterItem_Auto8148FCEBC4AF2C90C30B802800E010923.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Autosaves/Game/MAIN/BP/ItemClass/MasterItem_Auto8.uasset'
+[2021.11.09-15.43.44:000][371]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAIN/BP/ItemClass/Flower] ([1] browsable assets)...
+[2021.11.09-15.43.44:000][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAIN/BP/ItemClass/Flower]
+[2021.11.09-15.43.44:039][371]LogSavePackage: Moving '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Flower_Auto8861358A947FCBB7C5DAC8FB62E793FD2.tmp' to '../../../../Users/ASUS ROG ZEPHYRUS/Desktop/Livelihood/UI/Saved/Autosaves/Game/MAIN/BP/ItemClass/Flower_Auto8.uasset'
+[2021.11.09-15.43.44:041][371]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MAIN/BP/BP_inventory] ([1] browsable assets)...
+[2021.11.09-15.43.44:041][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/MAIN/BP/BP_inventory]
+[2021.11.09-15.43.44:061][371]LogUObjectBase: Error: Object flags are invalid or either Class or Outer is misaligned
+[2021.11.09-15.43.44:061][371]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.11.09-15.43.44:062][371]LogWindows: Windows GetLastError: The operation completed successfully. (0)
