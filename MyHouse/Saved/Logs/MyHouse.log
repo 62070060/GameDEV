@@ -2924,3 +2924,407 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.16-10.55.45:411][730]LogSavePackage: Moving '../../../../../../../Work_year_3/GameDESIGN/PJ_mid/GameDEV/MyHouse/Saved/houseC511A6F44BCC1D567280298D6B8F3D3A.tmp' to '../../../../../../../Work_year_3/GameDESIGN/PJ_mid/GameDEV/MyHouse/Content/MyHouse/Maps/house.umap'
 [2021.11.16-10.55.45:432][730]AssetCheck: New page: Asset Save: house
 [2021.11.16-10.55.45:432][730]LogContentValidation: Display: Validating World /Game/MyHouse/Maps/house.house
+[2021.11.16-10.59.56:247][926]LogActorFactory: Actor Factory created Plane
+[2021.11.16-10.59.57:122][978]LogActorFactory: Actor Factory created Plane
+[2021.11.16-11.00.33:273][137]LogLinker: Warning: Asset '../../../../../../../Work_year_3/GameDESIGN/PJ_mid/GameDEV/MyHouse/Content/LPGenericPropsSet04/Materials/Bricks/MI_BricksSet05.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.16-11.00.55:828][457]Cmd: EDIT COPY
+[2021.11.16-11.00.56:445][494]Cmd: EDIT PASTE
+[2021.11.16-11.00.59:230][646]Cmd: EDIT PASTE
+[2021.11.16-11.01.06:025][ 52]Cmd: EDIT PASTE
+[2021.11.16-11.01.18:744][794]Cmd: EDIT COPY
+[2021.11.16-11.01.19:312][828]Cmd: EDIT PASTE
+[2021.11.16-11.01.24:860][145]Cmd: EDIT PASTE
+[2021.11.16-11.01.40:114][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.16-11.01.43:581][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.16-11.01.54:685][911]LogLinker: Warning: Asset '../../../../../../../Work_year_3/GameDESIGN/PJ_mid/GameDEV/MyHouse/Content/LPGenericPropsSet04/Materials/Bricks/MI_BricksSet02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.16-11.02.00:687][270]LogLinker: Warning: Asset '../../../../../../../Work_year_3/GameDESIGN/PJ_mid/GameDEV/MyHouse/Content/LPGenericPropsSet04/Materials/Bricks/MI_BricksSet03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.16-11.02.04:969][526]LogLinker: Warning: Asset '../../../../../../../Work_year_3/GameDESIGN/PJ_mid/GameDEV/MyHouse/Content/LPGenericPropsSet04/Materials/Bricks/MI_BricksSet07.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.16-11.02.11:656][926]LogLinker: Warning: Asset '../../../../../../../Work_year_3/GameDESIGN/PJ_mid/GameDEV/MyHouse/Content/LPGenericPropsSet04/Materials/Concrete/MI_ConcreteSet01.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.16-11.02.19:642][399]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2021.11.16-11.02.19:661][399]LogSavePackage: Moving '../../../../../../../Work_year_3/GameDESIGN/PJ_mid/GameDEV/MyHouse/Saved/house4A628CF743DDBA84CE402695368A4C85.tmp' to '../../../../../../../Work_year_3/GameDESIGN/PJ_mid/GameDEV/MyHouse/Content/MyHouse/Maps/house.umap'
+[2021.11.16-11.02.19:685][399]AssetCheck: New page: Asset Save: house
+[2021.11.16-11.02.19:685][399]LogContentValidation: Display: Validating World /Game/MyHouse/Maps/house.house
+[2021.11.16-11.02.48:099][  3]LogActorFactory: Actor Factory created SM_SteelAndWoodSet01
+[2021.11.16-11.02.51:536][209]LogActorFactory: Actor Factory created SM_SteelAndWoodSet01
+[2021.11.16-11.02.52:904][291]LogActorFactory: Actor Factory created SM_SteelAndWoodSet01
+[2021.11.16-11.03.27:998][375]LogActorFactory: Actor Factory created SM_RailSet02
+[2021.11.16-11.03.33:568][709]LogActorFactory: Actor Factory created SM_RailSet02
+[2021.11.16-11.03.37:734][955]Cmd: DELETE
+[2021.11.16-11.03.37:734][955]Cmd: ACTOR DELETE
+[2021.11.16-11.03.37:736][955]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.16-11.03.37:778][955]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.11.16-11.03.37:784][955]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2021.11.16-11.03.38:300][985]LogActorFactory: Actor Factory created SM_RailSet01
+[2021.11.16-11.03.39:768][ 73]LogActorFactory: Actor Factory created SM_RailSet01
+[2021.11.16-11.03.41:602][168]Cmd: DELETE
+[2021.11.16-11.03.41:603][168]Cmd: ACTOR DELETE
+[2021.11.16-11.03.41:604][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.16-11.03.41:620][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.11.16-11.03.41:622][168]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.11.16-11.04.10:457][881]LogActorFactory: Actor Factory created SM_BunkSet03WoodPieceA
+[2021.11.16-11.04.11:642][952]LogActorFactory: Actor Factory created SM_BunkSet03WoodPieceA
+[2021.11.16-11.04.12:990][ 27]LogActorFactory: Actor Factory created SM_BunkSet02Fabric
+[2021.11.16-11.04.15:287][164]LogActorFactory: Actor Factory created SM_BunkSet02Fabric
+[2021.11.16-11.04.20:788][487]LogActorFactory: Actor Factory created SM_BunkSet03WoodPieceB
+[2021.11.16-11.04.24:377][702]LogActorFactory: Actor Factory created SM_BunkSet03WoodPieceB
+[2021.11.16-11.05.22:553][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BunkSet02Fabric)
+[2021.11.16-11.05.57:446][243]LogActorFactory: Actor Factory created SM_BunkSet03Support
+[2021.11.16-11.06.03:989][635]LogActorFactory: Actor Factory created SM_BunkSet03Support
+[2021.11.16-11.06.08:118][879]Cmd: DELETE
+[2021.11.16-11.06.08:118][879]Cmd: ACTOR DELETE
+[2021.11.16-11.06.08:120][879]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.16-11.06.08:134][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.11.16-11.06.08:146][879]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.11.16-11.06.17:692][440]LogActorFactory: Actor Factory created SM_GameConsoleSet01Cover
+[2021.11.16-11.06.19:257][534]LogActorFactory: Actor Factory created SM_GameConsoleSet01Cover
+[2021.11.16-11.06.19:687][558]Cmd: DELETE
+[2021.11.16-11.06.19:687][558]Cmd: ACTOR DELETE
+[2021.11.16-11.06.19:689][558]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.16-11.06.19:705][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.11.16-11.06.19:708][558]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2021.11.16-11.06.25:198][881]LogActorFactory: Actor Factory created SM_TableSet15Support
+[2021.11.16-11.06.25:984][928]LogActorFactory: Actor Factory created SM_TableSet15Support
+[2021.11.16-11.06.26:974][983]LogActorFactory: Actor Factory created SM_TableSet15Top
+[2021.11.16-11.06.27:920][ 39]LogActorFactory: Actor Factory created SM_TableSet15Top
+[2021.11.16-11.07.10:096][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HouseSet12BaseFloor)
+[2021.11.16-11.07.18:404][ 15]LogActorFactory: Actor Factory created SM_WardrobeSet01Wood
+[2021.11.16-11.07.22:204][242]LogActorFactory: Actor Factory created SM_WardrobeSet01Wood
+[2021.11.16-11.07.23:157][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BunkSet03WoodPieceB)
+[2021.11.16-11.08.15:193][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WardrobeSet01Wood)
+[2021.11.16-11.08.32:616][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WardrobeSet01Wood)
+[2021.11.16-11.09.03:965][308]LogActorFactory: Actor Factory created SM_WardrobeSet01MirrorLeft
+[2021.11.16-11.09.10:475][698]LogActorFactory: Actor Factory created SM_WardrobeSet01MirrorLeft
+[2021.11.16-11.09.29:881][856]LogActorFactory: Actor Factory created SM_WardrobeSet01CoverRight
+[2021.11.16-11.09.34:375][125]LogActorFactory: Actor Factory created SM_WardrobeSet01CoverRight
+[2021.11.16-11.09.37:958][335]LogActorFactory: Actor Factory created SM_WardrobeSet01CoverLeft
+[2021.11.16-11.09.40:771][503]LogActorFactory: Actor Factory created SM_WardrobeSet01CoverLeft
+[2021.11.16-11.09.53:048][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WardrobeSet01CoverRight)
+[2021.11.16-11.10.01:820][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HouseSet12BaseFloor)
+[2021.11.16-11.10.02:522][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WardrobeSet01CoverLeft)
+[2021.11.16-11.10.11:677][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WardrobeSet01CoverLeft)
+[2021.11.16-11.10.18:898][753]Cmd: TRANSACTION UNDO
+[2021.11.16-11.10.18:898][753]LogEditorTransaction: Undo Scale Actors
+[2021.11.16-11.10.38:886][914]Cmd: TRANSACTION UNDO
+[2021.11.16-11.10.38:886][914]LogEditorTransaction: Undo Set Scale
+[2021.11.16-11.11.09:493][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WardrobeSet01CoverRight)
+[2021.11.16-11.11.32:020][ 39]Cmd: TRANSACTION UNDO
+[2021.11.16-11.11.32:020][ 39]LogEditorTransaction: Undo Set Scale
+[2021.11.16-11.11.42:523][648]LogActorFactory: Actor Factory created SM_WardrobeSet01Drawer
+[2021.11.16-11.11.45:193][808]LogActorFactory: Actor Factory created SM_WardrobeSet01Drawer
+[2021.11.16-11.12.07:721][153]Cmd: TRANSACTION UNDO
+[2021.11.16-11.12.07:721][153]LogEditorTransaction: Undo Set Location
+[2021.11.16-11.12.08:130][168]Cmd: TRANSACTION UNDO
+[2021.11.16-11.12.08:130][168]LogEditorTransaction: Undo Move Actors
+[2021.11.16-11.12.47:443][519]Cmd: EDIT COPY
+[2021.11.16-11.12.47:910][547]Cmd: EDIT PASTE
+[2021.11.16-11.12.55:502][  0]Cmd: TRANSACTION UNDO
+[2021.11.16-11.12.55:502][  0]LogEditorTransaction: Undo Move Actors
+[2021.11.16-11.12.55:961][ 17]Cmd: TRANSACTION UNDO
+[2021.11.16-11.12.55:961][ 17]LogEditorTransaction: Undo Paste
+[2021.11.16-11.13.01:184][314]Cmd: TRANSACTION UNDO
+[2021.11.16-11.13.01:185][314]LogEditorTransaction: Undo Set Scale
+[2021.11.16-11.13.17:193][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WardrobeSet01CoverLeft)
+[2021.11.16-11.13.23:928][649]Cmd: TRANSACTION UNDO
+[2021.11.16-11.13.23:928][649]LogEditorTransaction: Undo Set Scale
+[2021.11.16-11.13.33:393][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WardrobeSet01Drawer)
+[2021.11.16-11.13.35:478][327]Cmd: EDIT COPY
+[2021.11.16-11.13.36:162][368]Cmd: EDIT PASTE
+[2021.11.16-11.13.40:161][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WardrobeSet01Drawer)
+[2021.11.16-11.13.41:384][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WardrobeSet01Drawer2)
+[2021.11.16-11.13.50:060][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WardrobeSet01Drawer)
+[2021.11.16-11.13.52:198][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WardrobeSet01MirrorLeft)
+[2021.11.16-11.14.19:381][932]LogActorFactory: Actor Factory created SM_WardrobeSet01MirrorLeft
+[2021.11.16-11.14.22:453][116]LogActorFactory: Actor Factory created SM_WardrobeSet01MirrorLeft
+[2021.11.16-11.14.24:349][228]Cmd: TRANSACTION UNDO
+[2021.11.16-11.14.24:350][228]LogEditorTransaction: Undo Create Actors
+[2021.11.16-11.14.25:376][271]LogActorFactory: Actor Factory created SM_WardrobeSet01MirrorRight
+[2021.11.16-11.14.26:537][340]LogActorFactory: Actor Factory created SM_WardrobeSet01MirrorRight
+[2021.11.16-11.15.10:161][927]Cmd: TRANSACTION UNDO
+[2021.11.16-11.15.10:161][927]LogEditorTransaction: Undo Set Scale
+[2021.11.16-11.15.12:388][ 46]Cmd: TRANSACTION UNDO
+[2021.11.16-11.15.12:388][ 46]LogEditorTransaction: Undo Set Scale
+[2021.11.16-11.15.16:369][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WardrobeSet01MirrorLeft)
+[2021.11.16-11.15.30:128][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WardrobeSet01MirrorRight)
+[2021.11.16-11.15.36:062][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WardrobeSet01MirrorLeft)
+[2021.11.16-11.15.45:739][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WardrobeSet01CoverRight)
+[2021.11.16-11.15.52:738][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.11.16-11.15.52:770][418]LogSavePackage: Moving '../../../../../../../Work_year_3/GameDESIGN/PJ_mid/GameDEV/MyHouse/Saved/house8857C69941DBFD5C70E41F85DE56CA07.tmp' to '../../../../../../../Work_year_3/GameDESIGN/PJ_mid/GameDEV/MyHouse/Content/MyHouse/Maps/house.umap'
+[2021.11.16-11.15.52:792][418]AssetCheck: New page: Asset Save: house
+[2021.11.16-11.15.52:792][418]LogContentValidation: Display: Validating World /Game/MyHouse/Maps/house.house
+[2021.11.16-11.15.54:820][540]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.16-11.15.54:826][540]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.16-11.15.54:826][540]PIE: New page: PIE session: house (17 พ.ย. 2564 01:15:54)
+[2021.11.16-11.15.54:827][540]LogPlayLevel: Creating play world package: /Game/MyHouse/Maps/UEDPIE_0_house
+[2021.11.16-11.15.54:832][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005249s)
+[2021.11.16-11.15.54:833][540]LogAIModule: Creating AISystem for world house
+[2021.11.16-11.15.54:833][540]LogPlayLevel: PIE: World Init took: (0.001289s)
+[2021.11.16-11.15.54:833][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyHouse/Maps/house.house to /Game/MyHouse/Maps/UEDPIE_0_house.house (0.006698s)
+[2021.11.16-11.15.54:849][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.11.16-11.15.54:850][540]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.11.16-11.15.54:850][540]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.16-11.15.54:850][540]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.16-11.15.54:850][540]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.16-11.15.54:850][540]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.16-11.15.54:850][540]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.16-11.15.54:850][540]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.16-11.15.54:850][540]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.16-11.15.54:850][540]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.16-11.15.54:851][540]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.16-11.15.54:851][540]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.16-11.15.54:855][540]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.16-11.15.54:855][540]LogAudioMixer: Display: 1: FrontRight
+[2021.11.16-11.15.54:862][540]LogAudioMixer: Display: Using Audio Device Speakers (GS3)
+[2021.11.16-11.15.54:862][540]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.16-11.15.54:863][540]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.16-11.15.54:863][540]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.16-11.15.54:863][540]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.16-11.15.54:863][540]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.16-11.15.54:863][540]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.16-11.15.54:881][540]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.16-11.15.54:881][540]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.16-11.15.54:881][540]LogInit: FAudioDevice initialized.
+[2021.11.16-11.15.54:881][540]LogAudio: Display: Audio Device (ID: 15) registered with world 'house'.
+[2021.11.16-11.15.54:890][540]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.11.16-11.15.54:893][540]LogWorld: Bringing World /Game/MyHouse/Maps/UEDPIE_0_house.house up for play (max tick rate 60) at 2021.11.16-18.15.54
+[2021.11.16-11.15.54:893][540]LogWorld: Bringing up level for play took: 0.002054
+[2021.11.16-11.15.54:894][540]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.11.16-11.15.54:897][540]PIE: Server logged in
+[2021.11.16-11.15.54:898][540]PIE: Play in editor total start time 0.072 seconds.
+[2021.11.16-11.16.07:632][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.16-11.16.07:632][299]LogWorld: BeginTearingDown for /Game/MyHouse/Maps/UEDPIE_0_house
+[2021.11.16-11.16.07:633][299]LogWorld: UWorld::CleanupWorld for house, bSessionEnded=true, bCleanupResources=true
+[2021.11.16-11.16.07:633][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.16-11.16.07:639][299]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.16-11.16.07:658][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.16-11.16.07:672][299]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.16-11.16.07:672][299]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.16-11.16.07:673][299]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.16-11.16.07:690][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.16-11.16.07:694][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.11.16-11.16.07:731][300]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.11.16-11.16.11:118][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HouseSet12BaseWalls)
+[2021.11.16-11.16.35:991][983]LogActorFactory: Actor Factory created SM_LampSet10
+[2021.11.16-11.16.40:828][273]LogActorFactory: Actor Factory created SM_LampSet10
+[2021.11.16-11.16.47:738][685]Cmd: DELETE
+[2021.11.16-11.16.47:738][685]Cmd: ACTOR DELETE
+[2021.11.16-11.16.47:740][685]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.16-11.16.47:755][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.11.16-11.16.47:763][685]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2021.11.16-11.16.53:181][990]LogActorFactory: Actor Factory created SM_ArmchairSet18FabricMiddle
+[2021.11.16-11.16.55:000][ 99]LogActorFactory: Actor Factory created SM_ArmchairSet18FabricMiddle
+[2021.11.16-11.17.00:454][421]LogActorFactory: Actor Factory created SM_ArmchairSet18Chrome
+[2021.11.16-11.17.02:178][524]LogActorFactory: Actor Factory created SM_ArmchairSet18Chrome
+[2021.11.16-11.17.11:824][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ArmchairSet18FabricMiddle)
+[2021.11.16-11.17.30:313][193]Cmd: EDIT COPY
+[2021.11.16-11.17.30:765][220]Cmd: EDIT PASTE
+[2021.11.16-11.17.33:731][395]Cmd: EDIT PASTE
+[2021.11.16-11.17.37:762][618]LogActorFactory: Actor Factory created SM_ArmchairSet18FabricSide
+[2021.11.16-11.17.39:926][747]LogActorFactory: Actor Factory created SM_ArmchairSet18FabricSide
+[2021.11.16-11.17.56:621][745]Cmd: EDIT COPY
+[2021.11.16-11.17.57:042][770]Cmd: EDIT PASTE
+[2021.11.16-11.17.59:534][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ArmchairSet18FabricMiddle)
+[2021.11.16-11.18.01:736][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ArmchairSet18FabricMiddle3)
+[2021.11.16-11.18.03:524][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ArmchairSet18FabricMiddle2)
+[2021.11.16-11.18.09:780][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ArmchairSet18Chrome)
+[2021.11.16-11.18.46:127][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HouseSet12BaseFloor)
+[2021.11.16-11.18.55:421][185]LogActorFactory: Actor Factory created SM_GameConsoleSet01Base
+[2021.11.16-11.18.56:044][222]LogActorFactory: Actor Factory created SM_GameConsoleSet01Base
+[2021.11.16-11.18.58:461][365]Cmd: DELETE
+[2021.11.16-11.18.58:461][365]Cmd: ACTOR DELETE
+[2021.11.16-11.18.58:463][365]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.16-11.18.58:479][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.11.16-11.18.58:490][365]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.11.16-11.19.01:589][549]LogActorFactory: Actor Factory created SM_OrnamentSet01
+[2021.11.16-11.19.03:109][640]LogActorFactory: Actor Factory created SM_OrnamentSet01
+[2021.11.16-11.19.06:065][815]Cmd: DELETE
+[2021.11.16-11.19.06:065][815]Cmd: ACTOR DELETE
+[2021.11.16-11.19.06:068][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.16-11.19.06:083][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.11.16-11.19.06:086][815]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2021.11.16-11.19.07:498][899]LogActorFactory: Actor Factory created SM_OrnamentSet02
+[2021.11.16-11.19.08:101][935]LogActorFactory: Actor Factory created SM_OrnamentSet02
+[2021.11.16-11.19.11:256][109]Cmd: DELETE
+[2021.11.16-11.19.11:256][109]Cmd: ACTOR DELETE
+[2021.11.16-11.19.11:258][109]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.16-11.19.11:273][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.11.16-11.19.11:275][109]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2021.11.16-11.19.22:157][754]LogActorFactory: Actor Factory created SM_BoxsSet09
+[2021.11.16-11.19.24:342][885]LogActorFactory: Actor Factory created SM_BoxsSet09
+[2021.11.16-11.20.01:790][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BunkSet02Fabric)
+[2021.11.16-11.20.09:579][575]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/MyHouse/Maps/house.house:PersistentLevel.SM_BunkSet02Fabric_225.StaticMeshComponent0)
+[2021.11.16-11.20.09:579][575]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/MyHouse/Maps/house.house:PersistentLevel.SM_BunkSet03WoodPieceB_228.StaticMeshComponent0)
+[2021.11.16-11.20.09:579][575]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/MyHouse/Maps/house.house:PersistentLevel.SM_BunkSet03WoodPieceA_222.StaticMeshComponent0)
+[2021.11.16-11.20.09:729][584]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/MyHouse/Maps/house.house:PersistentLevel.SM_BunkSet02Fabric_225.StaticMeshComponent0)
+[2021.11.16-11.20.09:729][584]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/MyHouse/Maps/house.house:PersistentLevel.SM_BunkSet03WoodPieceB_228.StaticMeshComponent0)
+[2021.11.16-11.20.09:730][584]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/MyHouse/Maps/house.house:PersistentLevel.SM_BunkSet03WoodPieceA_222.StaticMeshComponent0)
+[2021.11.16-11.20.24:969][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HouseSet12BaseFloor)
+[2021.11.16-11.20.29:624][759]LogActorFactory: Actor Factory created SM_WhiteboardSet02
+[2021.11.16-11.20.33:811][ 10]LogActorFactory: Actor Factory created SM_WhiteboardSet02
+[2021.11.16-11.20.35:774][121]LogActorFactory: Actor Factory created SM_WhiteboardSet01
+[2021.11.16-11.20.36:614][171]LogActorFactory: Actor Factory created SM_WhiteboardSet01
+[2021.11.16-11.20.37:729][236]Cmd: DELETE
+[2021.11.16-11.20.37:729][236]Cmd: ACTOR DELETE
+[2021.11.16-11.20.37:731][236]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.16-11.20.37:746][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.11.16-11.20.37:756][236]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2021.11.16-11.20.48:430][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WhiteboardSet02)
+[2021.11.16-11.21.14:645][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HouseSet12BaseFloor)
+[2021.11.16-11.21.18:889][671]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.16-11.21.18:894][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.16-11.21.18:894][671]PIE: New page: PIE session: house (17 พ.ย. 2564 01:21:18)
+[2021.11.16-11.21.18:894][671]LogPlayLevel: Creating play world package: /Game/MyHouse/Maps/UEDPIE_0_house
+[2021.11.16-11.21.18:900][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005437s)
+[2021.11.16-11.21.18:901][671]LogAIModule: Creating AISystem for world house
+[2021.11.16-11.21.18:901][671]LogPlayLevel: PIE: World Init took: (0.001489s)
+[2021.11.16-11.21.18:901][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyHouse/Maps/house.house to /Game/MyHouse/Maps/UEDPIE_0_house.house (0.007073s)
+[2021.11.16-11.21.18:917][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.11.16-11.21.18:925][671]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.11.16-11.21.18:925][671]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.16-11.21.18:925][671]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.16-11.21.18:925][671]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.16-11.21.18:925][671]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.16-11.21.18:925][671]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.16-11.21.18:925][671]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.16-11.21.18:925][671]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.16-11.21.18:925][671]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.16-11.21.18:925][671]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.16-11.21.18:925][671]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.16-11.21.18:929][671]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.16-11.21.18:929][671]LogAudioMixer: Display: 1: FrontRight
+[2021.11.16-11.21.18:935][671]LogAudioMixer: Display: Using Audio Device Speakers (GS3)
+[2021.11.16-11.21.18:935][671]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.16-11.21.18:935][671]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.16-11.21.18:935][671]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.16-11.21.18:936][671]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.16-11.21.18:936][671]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.16-11.21.18:936][671]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.16-11.21.18:954][671]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.16-11.21.18:954][671]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.16-11.21.18:954][671]LogInit: FAudioDevice initialized.
+[2021.11.16-11.21.18:954][671]LogAudio: Display: Audio Device (ID: 16) registered with world 'house'.
+[2021.11.16-11.21.18:965][671]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.11.16-11.21.18:968][671]LogWorld: Bringing World /Game/MyHouse/Maps/UEDPIE_0_house.house up for play (max tick rate 60) at 2021.11.16-18.21.18
+[2021.11.16-11.21.18:968][671]LogWorld: Bringing up level for play took: 0.002024
+[2021.11.16-11.21.18:968][671]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.11.16-11.21.18:972][671]PIE: Server logged in
+[2021.11.16-11.21.18:973][671]PIE: Play in editor total start time 0.08 seconds.
+[2021.11.16-11.21.34:213][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.16-11.21.34:213][583]LogWorld: BeginTearingDown for /Game/MyHouse/Maps/UEDPIE_0_house
+[2021.11.16-11.21.34:213][583]LogWorld: UWorld::CleanupWorld for house, bSessionEnded=true, bCleanupResources=true
+[2021.11.16-11.21.34:213][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.16-11.21.34:225][583]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.16-11.21.34:243][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.16-11.21.34:257][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.16-11.21.34:257][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.16-11.21.34:259][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.16-11.21.34:279][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.11.16-11.21.34:313][584]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.11.16-11.21.37:111][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.11.16-11.21.37:131][749]LogSavePackage: Moving '../../../../../../../Work_year_3/GameDESIGN/PJ_mid/GameDEV/MyHouse/Saved/houseD8A7F87243CAF96CEAA2EBBD986447D2.tmp' to '../../../../../../../Work_year_3/GameDESIGN/PJ_mid/GameDEV/MyHouse/Content/MyHouse/Maps/house.umap'
+[2021.11.16-11.21.37:156][749]AssetCheck: New page: Asset Save: house
+[2021.11.16-11.21.37:156][749]LogContentValidation: Display: Validating World /Game/MyHouse/Maps/house.house
+[2021.11.16-11.21.41:362][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SteelAndWoodSet01)
+[2021.11.16-11.21.43:020][ 98]Cmd: EDIT COPY
+[2021.11.16-11.21.43:470][125]Cmd: EDIT PASTE
+[2021.11.16-11.21.47:851][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.16-11.21.52:370][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SteelAndWoodSet2)
+[2021.11.16-11.21.56:186][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.16-11.22.06:430][472]LogActorFactory: Actor Factory created SM_AntennaSet01
+[2021.11.16-11.22.08:472][594]LogActorFactory: Actor Factory created SM_AntennaSet01
+[2021.11.16-11.22.09:776][670]Cmd: DELETE
+[2021.11.16-11.22.09:776][670]Cmd: ACTOR DELETE
+[2021.11.16-11.22.09:778][670]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.16-11.22.09:793][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.11.16-11.22.09:799][670]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2021.11.16-11.22.10:726][725]LogActorFactory: Actor Factory created SM_AntennaSet02
+[2021.11.16-11.22.11:698][783]LogActorFactory: Actor Factory created SM_AntennaSet02
+[2021.11.16-11.22.13:017][860]Cmd: DELETE
+[2021.11.16-11.22.13:017][860]Cmd: ACTOR DELETE
+[2021.11.16-11.22.13:019][860]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.16-11.22.13:034][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.11.16-11.22.13:036][860]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.11.16-11.22.17:411][113]LogActorFactory: Actor Factory created SM_VentilationSet02Base
+[2021.11.16-11.22.21:133][336]LogActorFactory: Actor Factory created SM_VentilationSet02Base
+[2021.11.16-11.22.21:477][354]Cmd: DELETE
+[2021.11.16-11.22.21:477][354]Cmd: ACTOR DELETE
+[2021.11.16-11.22.21:479][354]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.16-11.22.21:495][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.11.16-11.22.21:498][354]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2021.11.16-11.22.24:123][503]LogActorFactory: Actor Factory created SM_VentilationSet01Base
+[2021.11.16-11.22.25:128][563]LogActorFactory: Actor Factory created SM_VentilationSet01Base
+[2021.11.16-11.22.25:321][572]Cmd: DELETE
+[2021.11.16-11.22.25:321][572]Cmd: ACTOR DELETE
+[2021.11.16-11.22.25:323][572]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.16-11.22.25:337][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.11.16-11.22.25:339][572]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.11.16-11.22.29:998][846]LogActorFactory: Actor Factory created SM_SidewalkSet04Size1200
+[2021.11.16-11.22.31:635][944]LogActorFactory: Actor Factory created SM_SidewalkSet04Size1200
+[2021.11.16-11.22.32:690][  7]LogActorFactory: Actor Factory created SM_SidewalkSet04Size1200
+[2021.11.16-11.22.33:741][ 70]LogActorFactory: Actor Factory created SM_SidewalkSet04Size1200
+[2021.11.16-11.22.35:901][197]Cmd: DELETE
+[2021.11.16-11.22.35:901][197]Cmd: ACTOR DELETE
+[2021.11.16-11.22.35:903][197]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.16-11.22.35:917][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.11.16-11.22.35:921][197]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2021.11.16-11.22.37:481][288]LogActorFactory: Actor Factory created SM_SidewalkSet02Size1200
+[2021.11.16-11.22.41:753][542]LogActorFactory: Actor Factory created SM_SidewalkSet01Size600
+[2021.11.16-11.22.43:154][626]LogActorFactory: Actor Factory created SM_SidewalkSet01Size600
+[2021.11.16-11.22.43:403][639]Cmd: DELETE
+[2021.11.16-11.22.43:403][639]Cmd: ACTOR DELETE
+[2021.11.16-11.22.43:405][639]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.16-11.22.43:420][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.11.16-11.22.43:422][639]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.11.16-11.22.47:740][888]LogActorFactory: Actor Factory created SM_SidewalkSet05Size2400
+[2021.11.16-11.22.48:995][963]LogActorFactory: Actor Factory created SM_SidewalkSet05Size2400
+[2021.11.16-11.22.50:948][ 80]LogActorFactory: Actor Factory created SM_SidewalkSet05Size2400
+[2021.11.16-11.22.51:455][110]LogActorFactory: Actor Factory created SM_SidewalkSet05Size2400
+[2021.11.16-11.22.52:049][143]Cmd: DELETE
+[2021.11.16-11.22.52:050][143]Cmd: ACTOR DELETE
+[2021.11.16-11.22.52:052][143]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.16-11.22.52:066][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.11.16-11.22.52:069][143]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2021.11.16-11.22.52:667][178]LogActorFactory: Actor Factory created SM_SidewalkSet07Size2000
+[2021.11.16-11.22.53:500][228]LogActorFactory: Actor Factory created SM_SidewalkSet07Size2000
+[2021.11.16-11.22.53:853][247]Cmd: DELETE
+[2021.11.16-11.22.53:853][247]Cmd: ACTOR DELETE
+[2021.11.16-11.22.53:855][247]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.16-11.22.53:870][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.11.16-11.22.53:871][247]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.11.16-11.23.00:749][654]LogActorFactory: Actor Factory created SM_BarrierSet08
+[2021.11.16-11.23.01:723][712]LogActorFactory: Actor Factory created SM_BarrierSet08
+[2021.11.16-11.23.03:967][844]Cmd: DELETE
+[2021.11.16-11.23.03:967][844]Cmd: ACTOR DELETE
+[2021.11.16-11.23.03:969][844]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.16-11.23.03:985][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.11.16-11.23.03:989][844]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2021.11.16-11.23.06:377][987]LogActorFactory: Actor Factory created SM_BarrierSet06
+[2021.11.16-11.23.07:484][ 53]LogActorFactory: Actor Factory created SM_BarrierSet06
+[2021.11.16-11.23.09:209][154]Cmd: DELETE
+[2021.11.16-11.23.09:209][154]Cmd: ACTOR DELETE
+[2021.11.16-11.23.09:211][154]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.11.16-11.23.09:226][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.11.16-11.23.09:228][154]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.11.16-11.23.15:671][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.16-11.23.24:870][ 76]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavigationMeshBoundsVolume)
+[2021.11.16-11.23.31:497][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.11.16-11.23.32:120][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SteelAndWoodSet2)
+[2021.11.16-11.23.38:997][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SteelAndWoodSet01)
+[2021.11.16-11.23.54:646][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SteelAndWoodSet2)
+[2021.11.16-11.24.03:264][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.16-11.24.10:994][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane8)
+[2021.11.16-11.24.16:684][130]Cmd: EDIT COPY
+[2021.11.16-11.24.17:241][163]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.16-11.24.17:242][163]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.16-11.24.20:057][320]Cmd: TRANSACTION UNDO
+[2021.11.16-11.24.20:057][320]LogEditorTransaction: Undo Move Actors
+[2021.11.16-11.24.20:948][360]Cmd: EDIT PASTE
+[2021.11.16-11.24.24:709][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.11.16-11.25.26:203][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.16-11.25.27:653][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.11.16-11.25.27:683][303]LogSavePackage: Moving '../../../../../../../Work_year_3/GameDESIGN/PJ_mid/GameDEV/MyHouse/Saved/houseD0B911CF439797CCCA4517B3E30B3684.tmp' to '../../../../../../../Work_year_3/GameDESIGN/PJ_mid/GameDEV/MyHouse/Content/MyHouse/Maps/house.umap'
+[2021.11.16-11.25.27:704][303]AssetCheck: New page: Asset Save: house
+[2021.11.16-11.25.27:704][303]LogContentValidation: Display: Validating World /Game/MyHouse/Maps/house.house
+[2021.11.16-11.25.32:787][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.11.16-11.25.32:810][606]LogSavePackage: Moving '../../../../../../../Work_year_3/GameDESIGN/PJ_mid/GameDEV/MyHouse/Saved/house9FDC524D4F1B5435028379A8CD0AF33D.tmp' to '../../../../../../../Work_year_3/GameDESIGN/PJ_mid/GameDEV/MyHouse/Content/MyHouse/Maps/house.umap'
+[2021.11.16-11.25.32:832][606]AssetCheck: New page: Asset Save: house
+[2021.11.16-11.25.32:832][606]LogContentValidation: Display: Validating World /Game/MyHouse/Maps/house.house
